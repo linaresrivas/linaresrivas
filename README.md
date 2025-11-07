@@ -24,7 +24,7 @@ My mission? To turn bold visions into reality, solving complex challenges with i
 
 ### 🏆 Proud Moments
 
-- 🏅 Recognized with 14+ awards for innovation and leadership, including “Best IT Site Manager Ever” (2023)
+- 🏅 Recognized with 14+ awards for innovation, Revenue, Business units, and leadership, including “Best IT Site Manager Ever” (2023)
 - 💰 Saved millions through a fraud detection system using advanced analytics
 - 📈 Optimized nationwide operations with data-driven strategies
 
