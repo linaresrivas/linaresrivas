@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Gonzalo L. Linares-Rivas — Azure AI-Certified Leader in AI & Cloud Innovation
+I'm Gonzalo L. Linares-Rivas — Azure AI-Certified in AI & Cloud Innovation
 
 ---
 
