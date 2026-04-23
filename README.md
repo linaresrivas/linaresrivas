@@ -34,6 +34,19 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 
 ---
 
+### 💼 Featured Engagements
+
+| Engagement | Scope |
+| --- | --- |
+| **Superior Court of California** — San Francisco County | Juvenile data warehouse, legacy Magic xpa → web migration, Power BI governance, ADA / WCAG compliance |
+| **LinkedIn** — Enterprise GenAI Assistant | GenAI assistant for workplace operations |
+| **LinkedIn** — GenAI Workplace Insights (v2) | GenAI-powered insights platform for internal workplace data |
+| **Elile** — Deep-Research Platform | Multi-agent deep-research platform for enterprise knowledge retrieval |
+| **GL-Solutions.AI** — Text2SQL | Natural-language-to-SQL product for enterprise databases |
+| **GL-Solutions.AI** — Engineering Framework | Cross-client standards for AI-assisted development, git workflow, code review |
+
+---
+
 ### 🏆 Proud Moments
 
 - 🏅 Recognized with **14+ awards** for innovation, revenue, business-unit growth, and leadership — including *"Best IT Site Manager Ever"* (2023)
@@ -57,7 +70,7 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 - Copilot Foundations · Computer Vision · NLP · Generative AI · Document Intelligence · Security Copilot · Semantic Kernel · Azure AI Services (Microsoft)
 - AI Ethics · Prompt Engineering · OpenAI API · PyTorch · Data Visualization (DataCamp)
 
-_(Full list on [LinkedIn](https://www.linkedin.com/in/linaresrivas/))_
+*(Full list on [LinkedIn](https://www.linkedin.com/in/linaresrivas/))*
 
 ---
 
