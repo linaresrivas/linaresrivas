@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://gl-solutions.ai"><img alt="Website" src="https://img.shields.io/badge/gl--solutions.ai-0b5fff?style=flat-square&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/linaresrivas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:linares_rivas@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:Gonzalo@GL-Solutions.AI"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/GL-Solutions-AI"><img alt="Organization" src="https://img.shields.io/badge/Org-GL--Solutions.AI-24292e?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
@@ -17,7 +17,7 @@
 
 ### 🚀 About
 
-I'm a **Tech OG** with 17+ years transforming businesses through AI, cloud, and data analytics. My career spans oil, retail, pharmaceuticals, telecommunications, and government — delivering multimillion-dollar impact by turning bold visions into production systems.
+I'm a **Tech OG** with experience, partners and techies transforming and innovating businesses through AI, cloud, and data analytics. My career spans oil, retail, pharmaceuticals, telecommunications, and government — delivering multimillion-dollar impact by turning bold visions into production systems.
 
 Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we design and deliver systems where **explainability, auditability, and privacy** are first-class requirements, not afterthoughts.
 
