@@ -25,7 +25,7 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 
 ### 🛠️ Skills
 
-`Python` · `FastAPI` · `Next.js` · `SQL` · `Oracle` · `PostgreSQL` · `Azure` · `GCP` · `AI & LLMs` · `Agentic Systems` · `Claude API` · `Data Engineering` · `Medallion Architecture` · `Power BI` · `DAX` · `Docker` · `GitHub Actions` · `Bicep / IaC` · `Data Governance` · `Compliance` · `Shell Scripting`
+`Python` · `FastAPI` · `Next.js` · `Streamlit` · `SQL` · `Oracle` · `SQL Server` · `PostgreSQL` · `Azure` · `GCP` · `Azure Functions` · `Azure OpenAI` · `AI & LLMs` · `Agentic Systems` · `MCP` · `Claude API` · `n8n` · `Data Engineering` · `Medallion Architecture` · `SSAS / OLAP` · `Power BI` · `DAX` · `Docker` · `GitHub Actions` · `Bicep / IaC` · `Data Governance` · `GDPR / PII` · `Compliance` · `Shell Scripting`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linaresrivas&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
@@ -35,25 +35,42 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 
 ### 💡 What I build
 
-- 🧠 **AI & Agentic Systems** — LLM applications, multi-agent pipelines, Claude API integrations, agentic architectures grounded in real operational constraints
-- ☁️ **Cloud Architecture** — Azure (Fabric, Data Factory, Bicep IaC), GCP, split-plane government + commercial deployments
-- 🗄️ **Data Engineering** — Medallion (Bronze / Silver / Gold), schema contracts, lineage, data quality gates, Oracle + PostgreSQL pipelines
-- 🏛️ **Legacy Modernization** — Mainframe, Magic xpa, packaged-CMS migrations to modern web stacks (FastAPI + Next.js)
-- 🛡️ **Governance & Compliance** — CJIS, NIST 800-53, IRS 1075, GDPR, CCPA, ADA / WCAG 2.1 AA, Section 508, PDF accessibility (ISO 32000)
-- 📊 **BI & Analytics** — Power BI governance, health scoring, refresh reliability, DAX + SQL optimization
-- ⚙️ **Platform & Dev Tooling** — AI-assisted engineering frameworks, CI/CD automation, repo ops, reusable cross-client standards
+- 🧠 **AI & Agentic Systems** — LLM applications, multi-agent pipelines, Claude API + Azure OpenAI integrations, MCP tool ecosystems, agentic architectures grounded in real operational constraints
+- ☁️ **Cloud Architecture** — Azure (Fabric, Data Factory, Functions, Bicep IaC), GCP, split-plane government + commercial deployments
+- 🗄️ **Data Engineering** — Medallion (Bronze / Silver / Gold), schema contracts, lineage, data quality gates, Oracle + PostgreSQL + SQL Server pipelines
+- 🏛️ **Legacy Modernization** — Mainframe, Magic xpa, packaged-CMS migrations to modern web stacks (FastAPI + Next.js); SSAS 2000 / OLAP to cloud-native analytics
+- 🛡️ **Governance & Compliance** — CJIS, NIST 800-53, IRS 1075, GDPR, CCPA, ADA / WCAG 2.1 AA, Section 508, PDF accessibility (ISO 32000), PII detection
+- 📊 **BI & Analytics** — Power BI governance, health scoring, refresh reliability, DAX + SQL optimization; SSAS/OLAP cubes across 20+ industries
+- ⚙️ **Platform & Dev Tooling** — AI-assisted engineering frameworks, CI/CD automation, repo ops, reusable cross-client standards, homelab automation (n8n, Docker, MCP)
 
 ---
 
 ### 📊 Project Portfolio
 
+**Current Engagements (2023 – present)**
+
 | Industry | Customer | 📊 Data & Analytics | 🤖 AI & Agents | 🔄 Legacy Mod. | 🛡️ Governance | ⚙️ Platform | **Total** |
 |---|---|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Government & Justice** | Superior Court of CA — San Francisco | 2 | — | 1 | 1 | — | **4** |
-| **Enterprise Tech** | LinkedIn | — | 2 | — | — | — | **2** |
+| **Enterprise Tech** | LinkedIn | — | 3 | — | — | — | **3** |
 | **Enterprise Tech** | Elile | — | 1 | — | — | — | **1** |
-| **AI / SaaS** | GL-Solutions.AI | 1 | — | — | — | 1 | **2** |
-| | **Total** | **3** | **3** | **1** | **1** | **1** | **9** |
+| **AI / SaaS** | GL-Solutions.AI | 2 | 4 | — | 1 | 4 | **11** |
+| | **Total** | **4** | **8** | **1** | **2** | **4** | **19** |
+
+**Historical Foundation (2001 – 2022) · 50+ clients · 10+ industries**
+
+| Industry | 📊 BI / OLAP | 🗄️ Data Warehouse | 💻 Web / App | Representative Clients |
+|---|:---:|:---:|:---:|---|
+| **Government & Justice** | 7 | 2 | — | BANXICO, UNAM, CJF, SEDESOL, GDF, Secretaría de Salud |
+| **Oil & Gas** | 5 | — | — | PEMEX (×3 divisions), BP México, Gas Natural |
+| **Telecommunications** | 5 | — | — | TELMEX, Telefónica Movistar, Telcel, BESTEL |
+| **Retail & Commerce** | 5 | — | 4 | Walmart de México, Liverpool, Sanborns, CMR |
+| **Pharma & Healthcare** | 5 | — | — | Bristol-Myers Squibb, Sanofi-Aventis, ETMS |
+| **Consumer Goods** | 5 | — | — | P&G, Black & Decker, Kraft, Sigma Alimentos, Gamesa |
+| **Financial Services** | 4 | — | — | GNP Seguros, Banco Azteca, ABM, Genesis |
+| **Logistics & Distribution** | 3 | — | — | SAFCO, OGASA, LICONSA |
+| **Media & Entertainment** | 2 | — | — | Grupo Televisa, Cinemex |
+| **Airline** | 1 | — | — | Volaris |
 
 ---
 
