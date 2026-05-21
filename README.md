@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://gl-solutions.ai"><img alt="Website" src="https://img.shields.io/badge/gl--solutions.ai-0b5fff?style=flat-square&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/linaresrivas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:Gonzalo@GL-Solutions.AI"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:gonzalo@gl-solutions.ai"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/GL-Solutions-AI"><img alt="Organization" src="https://img.shields.io/badge/Org-GL--Solutions.AI-24292e?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
@@ -74,9 +74,13 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 
 ---
 
-### 🛠️ Top Skills
+### 🛠️ Top Skills & Languages
 
 `AI` · `LLMs` · `Agentic Systems` · `Azure` · `GCP` · `Data Engineering` · `Medallion` · `Power BI` · `Python` · `Data Governance` · `Compliance`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linaresrivas&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
@@ -87,7 +91,7 @@ Bilingual in **English and Spanish**, I bridge cultures and ideas to foster coll
 ---
 
 <p align="center">
-  <sub>📫 Let's connect — <a href="mailto:linares_rivas@hotmail.com">linares_rivas@hotmail.com</a> · <a href="https://www.linkedin.com/in/linaresrivas/">LinkedIn</a> · <a href="https://gl-solutions.ai">gl-solutions.ai</a></sub>
+  <sub>📫 Let's connect — <a href="mailto:gonzalo@gl-solutions.ai">gonzalo@gl-solutions.ai</a> · <a href="https://www.linkedin.com/in/linaresrivas/">LinkedIn</a> · <a href="https://gl-solutions.ai">gl-solutions.ai</a></sub>
 </p>
 
 <!--
