@@ -57,22 +57,22 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 | **AI / SaaS** | GL-Solutions.AI | 2 | 4 | — | 1 | 4 | **11** |
 | | **Total** | **4** | **8** | **1** | **2** | **4** | **19** |
 
-**Historical Foundation (2001 – 2022) · 79 projects · 60+ clients · 10+ industries**
+**Historical Foundation (2001 – 2022) · ~200 analytics projects across 79 repos · 60+ clients · 10+ industries**
+_Many repos contain multiple independent OLAP cubes or analytics modules (e.g. SAFCO = 13 cubes, BP = 15 cubes, TELMEX = 5 cubes, P&G = 8 CABs)._
 
-| Industry | Projects | Representative Clients |
-|---|:---:|---|
-| **Retail & Commerce** | 14 | Walmart de México, Liverpool, Sanborns, CMR, Coffee Factory, e-commerce sites |
-| **Government & Justice** | 12 | BANXICO, UNAM, CJF (Federal Judiciary), SEDESOL, GDF, Secretaría de Salud, PGR, IAVE, Progresa, DICONSA |
-| **Consumer Goods & Mfg** | 8 | P&G, Black & Decker, Kraft, Sigma Alimentos, Gamesa (PepsiCo), Whirlpool |
-| **Telecom** | 6 | TELMEX (×2), Telcel, Telefónica Movistar, Pegaso PCS, BESTEL |
-| **Pharma & Healthcare** | 6 | Bristol-Myers Squibb, Sanofi-Aventis, Genomma Lab, MAYPO, CIDMEX, ETMS |
-| **Financial Services** | 6 | GNP Seguros, Banco Azteca, ABM, Genesis Seguros, Marsh, Lorant Martínez Salas |
-| **Oil & Gas** | 5 | PEMEX (×3 divisions), BP México, Gas Natural |
-| **Logistics & Distribution** | 5 | FEMSA, SAFCO, OGASA, LICONSA, OMA |
-| **Media & Entertainment** | 5 | Grupo Televisa, Cinemex, Melate / Pronósticos (×3 projects) |
-| **Airline** | 2 | Volaris (×2 engagements) |
-| **Other / Multi-sector** | 10 | AMECE, IAVE, Cibeles, IMEF, Almacenes García + 5 more |
-| | **79** | |
+| Industry | 📈 Sales & Commercial | 💰 Finance & Budget | 🚚 Ops & Supply Chain | 📡 Billing & CDR | ~Sub-projects | Representative Clients |
+|---|:---:|:---:|:---:|:---:|:---:|---|
+| **Logistics & Distribution** | — | ~2 | ~24 | — | **~26** | SAFCO (13 cubes), FEMSA, OGASA, LICONSA, OMA |
+| **Retail & Commerce** | ~12 | — | ~4 | — | **~24** | Walmart, Sanborns (5 cubes), Liverpool, CMR (5 cubes) |
+| **Consumer Goods & Mfg** | ~14 | — | ~8 | — | **~22** | P&G (8 CABs), Black & Decker, Kraft, Sigma, Gamesa, Whirlpool |
+| **Financial Services** | ~2 | ~13 | — | — | **~16** | BP (15 cubes), ABM, GNP Seguros, Lorant (4 cubes), Banco Azteca |
+| **Telecom** | — | — | — | ~16 | **~16** | TELMEX (5 cubes), Telcel, Telefónica, Pegaso, BESTEL |
+| **Pharma & Healthcare** | ~8 | — | — | — | **~11** | Bristol-Myers Squibb, Sanofi-Aventis, Genomma, ETMS, CIDMEX |
+| **Media & Entertainment** | ~5 | — | — | ~4 | **~9** | Televisa, Cinemex, Melate/Pronósticos |
+| **Oil & Gas** | — | ~3 | ~4 | — | **~8** | PEMEX (3 divisions), PEMEX-GAS, BP México, Gas Natural |
+| **Government & Justice** | — | ~6 | — | — | **~12** | UNAM (5 cubes), CJF, SEDESOL, BANXICO, GDF, Secretaría de Salud |
+| **Airline** | ~2 | — | — | — | **~2** | Volaris |
+| | **~43** | **~24** | **~40** | **~20** | **~146+** | _+ web & e-commerce apps not shown_ |
 
 ---
 
@@ -81,6 +81,7 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 | Engagement | Scope |
 | --- | --- |
 | **Superior Court of California** — San Francisco County | Juvenile data warehouse, legacy Magic xpa → web migration, Power BI governance, ADA / WCAG compliance |
+| **Intel Corporation** — Cupertino, CA _(~10 years)_ | Enterprise ML, AI image recognition, Big Data — IT Manager; 3× Intel awards including _"Best IT Site Manager Ever"_ (2023) |
 | **LinkedIn** — Enterprise GenAI Assistant | GenAI assistant for workplace operations |
 | **LinkedIn** — GenAI Workplace Insights (v2) | GenAI-powered insights platform for internal workplace data |
 | **Elile** — Deep-Research Platform | Multi-agent deep-research platform for enterprise knowledge retrieval |
