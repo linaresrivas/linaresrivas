@@ -23,14 +23,37 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 
 ---
 
+### 🛠️ Skills
+
+`Python` · `FastAPI` · `Next.js` · `SQL` · `Oracle` · `PostgreSQL` · `Azure` · `GCP` · `AI & LLMs` · `Agentic Systems` · `Claude API` · `Data Engineering` · `Medallion Architecture` · `Power BI` · `DAX` · `Docker` · `GitHub Actions` · `Bicep / IaC` · `Data Governance` · `Compliance` · `Shell Scripting`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linaresrivas&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
 ### 💡 What I build
 
-- 🧠 **AI & Agentic Systems** — LLM applications, agentic architectures, strategy grounded in real operational constraints
-- ☁️ **Cloud Architecture** — Azure, GCP, split-plane government + commercial deployments
-- 🗄️ **Data Engineering** — Medallion (Bronze / Silver / Gold), schema contracts, lineage, data quality gates
-- 🏛️ **Legacy Modernization** — Mainframe, Magic xpa, packaged-CMS migrations to modern web stacks
-- 🛡️ **Governance & Compliance** — CJIS, NIST 800-53, IRS 1075, GDPR, CCPA, ADA / WCAG 2.1 AA, Section 508
+- 🧠 **AI & Agentic Systems** — LLM applications, multi-agent pipelines, Claude API integrations, agentic architectures grounded in real operational constraints
+- ☁️ **Cloud Architecture** — Azure (Fabric, Data Factory, Bicep IaC), GCP, split-plane government + commercial deployments
+- 🗄️ **Data Engineering** — Medallion (Bronze / Silver / Gold), schema contracts, lineage, data quality gates, Oracle + PostgreSQL pipelines
+- 🏛️ **Legacy Modernization** — Mainframe, Magic xpa, packaged-CMS migrations to modern web stacks (FastAPI + Next.js)
+- 🛡️ **Governance & Compliance** — CJIS, NIST 800-53, IRS 1075, GDPR, CCPA, ADA / WCAG 2.1 AA, Section 508, PDF accessibility (ISO 32000)
 - 📊 **BI & Analytics** — Power BI governance, health scoring, refresh reliability, DAX + SQL optimization
+- ⚙️ **Platform & Dev Tooling** — AI-assisted engineering frameworks, CI/CD automation, repo ops, reusable cross-client standards
+
+---
+
+### 📊 Project Portfolio
+
+| Industry | Customer | 📊 Data & Analytics | 🤖 AI & Agents | 🔄 Legacy Mod. | 🛡️ Governance | ⚙️ Platform | **Total** |
+|---|---|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Government & Justice** | Superior Court of CA — San Francisco | 2 | — | 1 | 1 | — | **4** |
+| **Enterprise Tech** | LinkedIn | — | 2 | — | — | — | **2** |
+| **Enterprise Tech** | Elile | — | 1 | — | — | — | **1** |
+| **AI / SaaS** | GL-Solutions.AI | 1 | — | — | — | 1 | **2** |
+| | **Total** | **3** | **3** | **1** | **1** | **1** | **9** |
 
 ---
 
@@ -71,22 +94,6 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 - AI Ethics · Prompt Engineering · OpenAI API · PyTorch · Data Visualization (DataCamp)
 
 *(Full list on [LinkedIn](https://www.linkedin.com/in/linaresrivas/))*
-
----
-
-### 🛠️ Top Skills & Languages
-
-`AI` · `LLMs` · `Agentic Systems` · `Azure` · `GCP` · `Data Engineering` · `Medallion` · `Power BI` · `Python` · `Data Governance` · `Compliance`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linaresrivas&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-### 🌍 Multicultural leader
-
-Bilingual in **English and Spanish**, I bridge cultures and ideas to foster collaboration. Energized by leading teams to tackle big challenges and mentoring others to succeed.
 
 ---
 
