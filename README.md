@@ -25,7 +25,7 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 
 ### 🛠️ Skills
 
-`Python` · `FastAPI` · `Next.js` · `Streamlit` · `SQL` · `Oracle` · `SQL Server` · `PostgreSQL` · `Azure` · `GCP` · `Azure Functions` · `Azure OpenAI` · `AI & LLMs` · `Agentic Systems` · `MCP` · `Claude API` · `n8n` · `Data Engineering` · `Medallion Architecture` · `SSAS / OLAP` · `Power BI` · `DAX` · `Docker` · `GitHub Actions` · `Bicep / IaC` · `Data Governance` · `GDPR / PII` · `Compliance` · `Shell Scripting`
+`Python` · `FastAPI` · `Next.js` · `JavaScript` · `Streamlit` · `SQL` · `Oracle` · `SQL Server` · `PostgreSQL` · `Azure` · `GCP` · `Azure Functions` · `Azure OpenAI` · `AI & LLMs` · `Agentic Systems` · `MCP` · `Claude API` · `n8n` · `Data Engineering` · `Medallion Architecture` · `SSAS / OLAP` · `Power BI` · `TIBCO Spotfire` · `DAX` · `Docker` · `GitHub Actions` · `Bicep / IaC` · `Data Governance` · `GDPR / PII` · `Compliance` · `Shell Scripting`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linaresrivas&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
@@ -40,14 +40,14 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 - 🗄️ **Data Engineering** — Medallion (Bronze / Silver / Gold), schema contracts, lineage, data quality gates, Oracle + PostgreSQL + SQL Server pipelines
 - 🏛️ **Legacy Modernization** — Mainframe, Magic xpa, packaged-CMS migrations to modern web stacks (FastAPI + Next.js); SSAS 2000 / OLAP to cloud-native analytics
 - 🛡️ **Governance & Compliance** — CJIS, NIST 800-53, IRS 1075, GDPR, CCPA, ADA / WCAG 2.1 AA, Section 508, PDF accessibility (ISO 32000), PII detection
-- 📊 **BI & Analytics** — Power BI governance, health scoring, refresh reliability, DAX + SQL optimization; SSAS/OLAP cubes across 20+ industries
+- 📊 **BI & Analytics** — Power BI + TIBCO Spotfire governance, health scoring, refresh reliability, DAX + SQL optimization; SSAS/OLAP cubes across 20+ industries
 - ⚙️ **Platform & Dev Tooling** — AI-assisted engineering frameworks, CI/CD automation, repo ops, reusable cross-client standards, homelab automation (n8n, Docker, MCP)
 
 ---
 
 ### 📊 Project Portfolio
 
-**Current Engagements (2023 – present)**
+**Current Engagements (2023 – present) · 19 projects**
 
 | Industry | Customer | 📊 Data & Analytics | 🤖 AI & Agents | 🔄 Legacy Mod. | 🛡️ Governance | ⚙️ Platform | **Total** |
 |---|---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -57,19 +57,19 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 | **AI / SaaS** | GL-Solutions.AI | 2 | 4 | — | 1 | 4 | **11** |
 | | **Total** | **4** | **8** | **1** | **2** | **4** | **19** |
 
-**Historical Foundation (2001 – 2022) · 50+ clients · 10+ industries**
+**Historical Foundation (2001 – 2022) · 55+ clients · 10+ industries**
 
-| Industry | 📊 BI / OLAP | 🗄️ Data Warehouse | 💻 Web / App | Representative Clients |
+| Industry | 📊 BI / OLAP | 🗄️ Data Warehouse | 💻 Web / App | Clients |
 |---|:---:|:---:|:---:|---|
-| **Government & Justice** | 7 | 2 | — | BANXICO, UNAM, CJF, SEDESOL, GDF, Secretaría de Salud |
+| **Government & Justice** | 10 | 2 | — | BANXICO, UNAM, CJF, SEDESOL, GDF, Secretaría de Salud, PGR, IAVE, Progresa, DICONSA |
 | **Oil & Gas** | 5 | — | — | PEMEX (×3 divisions), BP México, Gas Natural |
-| **Telecommunications** | 5 | — | — | TELMEX, Telefónica Movistar, Telcel, BESTEL |
+| **Telecommunications** | 5 | — | — | TELMEX (×2), Telefónica Movistar, Telcel, BESTEL |
 | **Retail & Commerce** | 5 | — | 4 | Walmart de México, Liverpool, Sanborns, CMR |
-| **Pharma & Healthcare** | 5 | — | — | Bristol-Myers Squibb, Sanofi-Aventis, ETMS |
-| **Consumer Goods** | 5 | — | — | P&G, Black & Decker, Kraft, Sigma Alimentos, Gamesa |
-| **Financial Services** | 4 | — | — | GNP Seguros, Banco Azteca, ABM, Genesis |
-| **Logistics & Distribution** | 3 | — | — | SAFCO, OGASA, LICONSA |
-| **Media & Entertainment** | 2 | — | — | Grupo Televisa, Cinemex |
+| **Pharma & Healthcare** | 6 | — | — | Bristol-Myers Squibb, Sanofi-Aventis, Genomma Lab, MAYPO, CIDMEX, ETMS |
+| **Consumer Goods** | 7 | — | — | P&G, Black & Decker, Kraft, Sigma Alimentos, Gamesa, Chocolate La Corona, Whirlpool |
+| **Financial Services** | 6 | — | — | GNP Seguros, Banco Azteca, ABM, Genesis, Marsh, Lorant Martínez Salas |
+| **Logistics & Distribution** | 5 | — | — | FEMSA, SAFCO, OGASA, LICONSA, OMA |
+| **Media & Entertainment** | 3 | — | — | Grupo Televisa, Cinemex, Melate / Pronósticos |
 | **Airline** | 1 | — | — | Volaris |
 
 ---
