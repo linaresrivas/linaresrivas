@@ -57,20 +57,22 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 | **AI / SaaS** | GL-Solutions.AI | 2 | 4 | — | 1 | 4 | **11** |
 | | **Total** | **4** | **8** | **1** | **2** | **4** | **19** |
 
-**Historical Foundation (2001 – 2022) · 55+ clients · 10+ industries**
+**Historical Foundation (2001 – 2022) · 79 projects · 60+ clients · 10+ industries**
 
-| Industry | 📊 BI / OLAP | 🗄️ Data Warehouse | 💻 Web / App | Clients |
-|---|:---:|:---:|:---:|---|
-| **Government & Justice** | 10 | 2 | — | BANXICO, UNAM, CJF, SEDESOL, GDF, Secretaría de Salud, PGR, IAVE, Progresa, DICONSA |
-| **Oil & Gas** | 5 | — | — | PEMEX (×3 divisions), BP México, Gas Natural |
-| **Telecommunications** | 5 | — | — | TELMEX (×2), Telefónica Movistar, Telcel, BESTEL |
-| **Retail & Commerce** | 5 | — | 4 | Walmart de México, Liverpool, Sanborns, CMR |
-| **Pharma & Healthcare** | 6 | — | — | Bristol-Myers Squibb, Sanofi-Aventis, Genomma Lab, MAYPO, CIDMEX, ETMS |
-| **Consumer Goods** | 7 | — | — | P&G, Black & Decker, Kraft, Sigma Alimentos, Gamesa, Chocolate La Corona, Whirlpool |
-| **Financial Services** | 6 | — | — | GNP Seguros, Banco Azteca, ABM, Genesis, Marsh, Lorant Martínez Salas |
-| **Logistics & Distribution** | 5 | — | — | FEMSA, SAFCO, OGASA, LICONSA, OMA |
-| **Media & Entertainment** | 3 | — | — | Grupo Televisa, Cinemex, Melate / Pronósticos |
-| **Airline** | 1 | — | — | Volaris |
+| Industry | Projects | Representative Clients |
+|---|:---:|---|
+| **Retail & Commerce** | 14 | Walmart de México, Liverpool, Sanborns, CMR, Coffee Factory, e-commerce sites |
+| **Government & Justice** | 12 | BANXICO, UNAM, CJF (Federal Judiciary), SEDESOL, GDF, Secretaría de Salud, PGR, IAVE, Progresa, DICONSA |
+| **Consumer Goods & Mfg** | 8 | P&G, Black & Decker, Kraft, Sigma Alimentos, Gamesa (PepsiCo), Whirlpool |
+| **Telecom** | 6 | TELMEX (×2), Telcel, Telefónica Movistar, Pegaso PCS, BESTEL |
+| **Pharma & Healthcare** | 6 | Bristol-Myers Squibb, Sanofi-Aventis, Genomma Lab, MAYPO, CIDMEX, ETMS |
+| **Financial Services** | 6 | GNP Seguros, Banco Azteca, ABM, Genesis Seguros, Marsh, Lorant Martínez Salas |
+| **Oil & Gas** | 5 | PEMEX (×3 divisions), BP México, Gas Natural |
+| **Logistics & Distribution** | 5 | FEMSA, SAFCO, OGASA, LICONSA, OMA |
+| **Media & Entertainment** | 5 | Grupo Televisa, Cinemex, Melate / Pronósticos (×3 projects) |
+| **Airline** | 2 | Volaris (×2 engagements) |
+| **Other / Multi-sector** | 10 | AMECE, IAVE, Cibeles, IMEF, Almacenes García + 5 more |
+| | **79** | |
 
 ---
 
