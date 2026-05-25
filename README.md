@@ -53,46 +53,43 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 
 ### 📊 Project Portfolio
 
-**Current Engagements (2023 – present) · 19 projects**
+**Notable clients:** **LinkedIn** · **Intel** · **Cognizant (3Cloud)** · **Procter & Gamble** · **BP (British Petroleum)** · **Walmart** · **Sanofi** · **Bristol-Myers Squibb** · **PEMEX** · **Televisa** · **Volaris** · **Superior Court of California**
 
-| Industry | Customer | 📊 Data & Analytics | 🤖 AI & Agents | 🔄 Legacy Mod. | 🛡️ Governance | ⚙️ Platform | **Total** |
-|---|---|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Government & Justice** | Superior Court of CA — San Francisco | 2 | — | 1 | 1 | — | **4** |
-| **Enterprise Tech** | LinkedIn | — | 3 | — | — | — | **3** |
-| **Enterprise Tech** | Elile | — | 1 | — | — | — | **1** |
-| **AI / SaaS** | GL-Solutions.AI | 2 | 4 | — | 1 | 4 | **11** |
-| | **Total** | **4** | **8** | **1** | **2** | **4** | **19** |
+| Industry | Notable Clients | Focus Areas |
+|---|---|---|
+| **AI / SaaS** | **GL-Solutions.AI** — Lucy, Text2SQL, Engineering Framework, AI Eval Framework | Multi-Agent · RAG · MCP · LLM Evaluation · AI Governance |
+| **Big Tech / Enterprise Tech** | **LinkedIn** (3 GenAI engagements via 3Cloud), Elile (LangGraph multi-agent OSINT), **Cognizant (3Cloud)** | GenAI · Vision · Text-to-SQL · GDPR · Multi-Agent |
+| **In-House Enterprise** | **Intel Corporation** — Delivery Leader · IT Site Lead · BI Architect (80+ analytics solutions, 4,000+ users, Centers of Excellence for Data Governance, Big Data & BI) | Enterprise BI · ML · Big Data · Data Governance · COE Leadership |
+| **Government & Justice** | **Superior Court of California** (San Francisco), **PEMEX** (gov-side), SEDESOL, Liconsa, FONACOT, BANXICO (Banco de México), Consejo de la Judicatura Federal, UNAM, GDF (Gobierno de la Ciudad de México), I+D Mexico, Secretaría de Salud | Data Warehousing · Compliance (CJIS · NIST 800-53 · IRS 1075 · ADA · WCAG) · Fraud Detection · BI |
+| **Oil & Gas** | **BP (British Petroleum)** México, **PEMEX** (Natural Gas + 3 divisions), PEMEX-GAS, Gas Natural | Financial DW · Fraud Detection · Operations |
+| **Consumer Packaged Goods** | **Procter & Gamble** (5 engagements: POS, Sales Fundamentals, Real-Time Pricing, Market-Basket, Key Business Drivers), Black & Decker, Kraft, Sigma Alimentos, Gamesa, Whirlpool, La Corona | Sales Analytics · Market-Basket Discovery · Pricing · POS |
+| **Pharma & Healthcare** | **Bristol-Myers Squibb**, **Sanofi-Aventis**, Genomma Lab, ETMS, CIDMEX | Sales & Marketing Analytics · Pricing |
+| **Retail & Commerce** | **Walmart**, Sanborns, Liverpool, CMR | POS · Sales · Market-Basket |
+| **Financial Services** | **BP (British Petroleum)** LATAM Finance, GNP Seguros, Grupo Lorant, ABM, Banco Azteca | Financial DW · Audit · Risk · Insurance · Banking |
+| **Telecom** | **TELMEX (Teléfonos de México)**, Telcel, **Telefónica**, Pegaso, BESTEL | Billing / CDR Analytics |
+| **Logistics & Distribution** | SAFCO, FEMSA (Fomento Económico Mexicano), OGASA, OMA (Operadora Mexicana de Aeropuertos) | Supply Chain · Operations · Distribution |
+| **Media & Entertainment** | **Televisa**, Cinemex, Melate / Pronósticos | Sales · Billing · Audience Analytics |
+| **Airline** | **Volaris** | Sales Analytics |
 
-**Historical Foundation (2001 – 2022) · ~200 analytics projects across 79 repos · 60+ clients · 10+ industries**
-_Many repos contain multiple independent OLAP cubes or analytics modules (e.g. SAFCO = 13 cubes, BP = 15 cubes, TELMEX = 5 cubes, P&G = 8 CABs)._
-
-| Industry | 📈 Sales & Commercial | 💰 Finance & Budget | 🚚 Ops & Supply Chain | 📡 Billing & CDR | ~Sub-projects | Representative Clients |
-|---|:---:|:---:|:---:|:---:|:---:|---|
-| **Logistics & Distribution** | — | ~2 | ~24 | — | **~26** | SAFCO (13 cubes), FEMSA, OGASA, LICONSA, OMA |
-| **Retail & Commerce** | ~12 | — | ~4 | — | **~24** | Walmart, Sanborns (5 cubes), Liverpool, CMR (5 cubes) |
-| **Consumer Goods & Mfg** | ~14 | — | ~8 | — | **~22** | P&G (8 CABs), Black & Decker, Kraft, Sigma, Gamesa, Whirlpool |
-| **Financial Services** | ~2 | ~13 | — | — | **~16** | BP (15 cubes), ABM, GNP Seguros, Lorant (4 cubes), Banco Azteca |
-| **Telecom** | — | — | — | ~16 | **~16** | TELMEX (5 cubes), Telcel, Telefónica, Pegaso, BESTEL |
-| **Pharma & Healthcare** | ~8 | — | — | — | **~11** | Bristol-Myers Squibb, Sanofi-Aventis, Genomma, ETMS, CIDMEX |
-| **Media & Entertainment** | ~5 | — | — | ~4 | **~9** | Televisa, Cinemex, Melate/Pronósticos |
-| **Oil & Gas** | — | ~3 | ~4 | — | **~8** | PEMEX (3 divisions), PEMEX-GAS, BP México, Gas Natural |
-| **Government & Justice** | — | ~6 | — | — | **~12** | UNAM (5 cubes), CJF, SEDESOL, BANXICO, GDF, Secretaría de Salud |
-| **Airline** | ~2 | — | — | — | **~2** | Volaris |
-| | **~43** | **~24** | **~40** | **~20** | **~146+** | _+ web & e-commerce apps not shown_ |
+> **Totals:** 60+ clients · 13 industries · 200+ OLAP cubes & analytics modules · 79 client repos · 8+ AI/agent systems (private) · 80+ internal analytics solutions at Intel.
+>
+> Many client repos contain multiple independent OLAP cubes (e.g., SAFCO = 13 cubes, BP Finance = 15 cubes, TELMEX = 5 cubes, P&G = 8 CABs).
 
 ---
 
-### 💼 Featured Engagements
+### 💼 Featured Projects
 
-| Engagement | Scope |
-| --- | --- |
-| **Superior Court of California** — San Francisco County | Juvenile data warehouse, legacy Magic xpa → web migration, Power BI governance, ADA / WCAG compliance |
-| **Intel Corporation** — Cupertino, CA _(~10 years)_ | Enterprise ML, AI image recognition, Big Data — IT Manager; 3× Intel awards including _"Best IT Site Manager Ever"_ (2023) |
-| **LinkedIn** — Enterprise GenAI Assistant | GenAI assistant for workplace operations |
-| **LinkedIn** — GenAI Workplace Insights (v2) | GenAI-powered insights platform for internal workplace data |
-| **Elile** — Deep-Research Platform | Multi-agent deep-research platform for enterprise knowledge retrieval |
-| **GL-Solutions.AI** — Text2SQL | Natural-language-to-SQL product for enterprise databases |
-| **GL-Solutions.AI** — Engineering Framework | Cross-client standards for AI-assisted development, git workflow, code review |
+- 🏛️ **Superior Court of California** (San Francisco County) — Juvenile data warehouse, legacy Magic xpa → modern web migration, Power BI governance, ADA / WCAG compliance
+- 🏢 **Intel Corporation** — Enterprise ML, AI image recognition, Big Data platform; IT Site Leader Silicon Valley HQ; 14+ awards including *"Best IT Site Manager Ever"*
+- 🧠 **LinkedIn — Enterprise GenAI Assistant** — GenAI assistant for workplace operations (delivered via 3Cloud / Cognizant)
+- 🧠 **LinkedIn — GenAI Workplace Insights (v2)** — GenAI-powered insights for internal workplace data
+- 🔍 **Elile — Deep-Research Platform** — Multi-agent OSINT (LangGraph Supervisor + Research / Analysis / Verification / Risk agents; Claude + GPT-4o + Gemini)
+- 🛡️ **3Cloud / Cognizant — AI Privacy & GDPR App** — PII detection + data-privacy project management for Fortune-50 customers
+- 🤖 **GL-Solutions.AI — Lucy** — Agentic AI platform: 130+ MCP tools, Multi-Agent RAG, cognitive memory, Anthropic + OpenAI + Azure
+- 💬 **GL-Solutions.AI — Text2SQL** — Natural-language enterprise database interface
+- ⚙️ **GL-Solutions.AI — Engineering Framework** — Cross-client AI-assisted development standards, git workflow, code review
+- 📊 **GL-Solutions.AI — AI Eval Framework** — Azure AI Evaluation SDK (GPT-4o + Phi-4 + LangSmith) for production LLM testing
+- 💰 **PEMEX (oil & gas)** — Fraud-detection analytics system that saved millions and triggered new employee policies (Ritter Dragon era)
 
 ---
 
