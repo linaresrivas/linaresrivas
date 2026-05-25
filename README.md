@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  <b>60+ clients · 13 industries · 200+ OLAP cubes &amp; analytics modules · 79 client repos · 8+ AI/agent systems (private) · ex-Intel</b>
+  <b>75+ clients · 16 industries · 250+ OLAP cubes &amp; analytics modules · 15+ AI / agent systems &amp; products · ex-Intel</b>
   <br/>
-  <sub><i>60+ clients lifetime · 10 actively tracked under GL-Solutions.AI</i></sub>
+  <sub><i>75+ clients across full career · 10+ actively tracked under GL-Solutions.AI · full catalog under private archive</i></sub>
 </p>
 
 <p align="center">
@@ -87,9 +87,9 @@ Every client below corresponds to a real engagement with archived deliverables (
 | **Web & E-commerce** *(early career)* | **Promoclave** · **Teacari** · **Artesanías de México** · **Expertopolis** · **Intelligence** · **IMEF** · **Cenneg** · **Cibeles** | Classic ASP · Flash · MySQL · Access · early web stacks |
 | **Nonprofit** | **AccessAI** (Member, Board of Directors) | Board governance · AI ethics · equitable access |
 
-> **Totals:** 70+ clients · 16 industries · 200+ OLAP cubes & analytics modules · 80+ internal analytics solutions at Intel · 11+ GL-Solutions.AI products · 8+ AI/agent systems.
+> **Totals:** 75+ clients · 16 industries · 250+ OLAP cubes & analytics modules · 80+ internal analytics solutions at Intel · 11+ GL-Solutions.AI products · 15+ AI / agent systems & products.
 >
-> Many client repos contain multiple independent OLAP cubes (e.g., SAFCO = 13 cubes, BP Finance = 15 cubes, TELMEX = 5 cubes, P&G = 8 CABs, Progresa = 13 cubes). Full catalog under private archive.
+> Many client repos contain multi-cube suites (e.g., SAFCO = 13, BP Finance = 15, Progresa / Oportunidades = 13, P&G = 8 CABs, MAYPO = 6, TBD = 6, TELMEX = 5, Sanborns = 5, CMR = 5, Lorant = 4). Full catalog under private archive.
 
 ---
 
