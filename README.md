@@ -13,6 +13,12 @@
   <a href="https://github.com/GL-Solutions-AI"><img alt="Organization" src="https://img.shields.io/badge/Org-GL--Solutions.AI-24292e?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <b>60+ clients · 13 industries · 200+ OLAP cubes &amp; analytics modules · 79 client repos · 8+ AI/agent systems (private) · ex-Intel</b>
+  <br/>
+  <sub><i>60+ clients lifetime · 10 actively tracked under GL-Solutions.AI</i></sub>
+</p>
+
 ---
 
 ### 🚀 About
