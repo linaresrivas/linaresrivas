@@ -63,7 +63,7 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 
 ### 📊 Project Portfolio
 
-**Notable clients & sponsors:** **U.S. Department of State** · **LinkedIn** · **Intel** · **Cognizant (3Cloud)** · **ING** · **Procter & Gamble** · **BP (British Petroleum)** · **Walmart** · **Sanofi** · **Bristol-Myers Squibb** · **PEMEX** · **Televisa** · **Volaris** · **Superior Court of California**
+**Notable clients & sponsors:** **U.S. Department of State** · **LinkedIn** · **Intel** · **Cognizant (3Cloud)** · **TIBCO Spotfire** · **Geonosys** · **ING** · **Procter & Gamble** · **BP (British Petroleum)** · **Walmart** · **Sanofi** · **Bristol-Myers Squibb** · **PEMEX** · **Televisa** · **Volaris** · **Superior Court of California**
 
 | Industry | Notable Clients | Focus Areas |
 |---|---|---|
@@ -96,6 +96,9 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 - 🧠 **LinkedIn — Enterprise GenAI Assistant** — GenAI assistant for workplace operations (delivered via 3Cloud / Cognizant)
 - 🧠 **LinkedIn — GenAI Workplace Insights (v2)** — GenAI-powered insights for internal workplace data
 - 🔍 **Elile — Deep-Research Platform** — Multi-agent OSINT (LangGraph Supervisor + Research / Analysis / Verification / Risk agents; Claude + GPT-4o + Gemini)
+- 🆔 **Geonosys — ID1 Identity Resolution** — Enterprise identity-resolution agent; LangGraph multi-agent workflow (query → intent routing → data fusion → resolution → report); multi-LLM (Anthropic + Google + Mistral); FastAPI + Django + Docker
+- 📊 **Geonosys — Adaptive Analytics Platform** — AI-driven self-evolving analytics with zero-code model generation; **21 model types delivered in 30-day sprint (94% completion)**; Neo4j + LangGraph; multi-LLM
+- 🧪 **TIBCO Spotfire — AI Eval Framework** — Contributed to Spotfire Copilot evaluation framework; Azure AI Evaluation SDK, GPT-4o / GPT-4.1-mini / Phi-4, LangSmith, production eval pipelines
 - 🛡️ **3Cloud / Cognizant — AI Privacy & GDPR App** — PII detection + data-privacy project management for Fortune-50 customers
 - 🤖 **GL-Solutions.AI — Lucy** — Agentic AI platform: 130+ MCP tools, Multi-Agent RAG, cognitive memory, Anthropic + OpenAI + Azure
 - 💬 **GL-Solutions.AI — Text2SQL** — Natural-language enterprise database interface
