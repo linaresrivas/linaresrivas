@@ -19,6 +19,12 @@
   <sub><i>60+ clients lifetime · 10 actively tracked under GL-Solutions.AI</i></sub>
 </p>
 
+<p align="center">
+  🎤 <b>U.S. Department of State — Speaker Program</b> · invited expert on AI &amp; Digital Transformation · worldwide via U.S. embassies &amp; consulates
+  <br/>
+  🤝 <b>Member, Board of Directors @ <a href="https://accessai.org">AccessAI</a></b> · AI awareness &amp; training for underserved groups
+</p>
+
 ---
 
 ### 🚀 About
@@ -53,7 +59,7 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 
 ### 📊 Project Portfolio
 
-**Notable clients:** **LinkedIn** · **Intel** · **Cognizant (3Cloud)** · **Procter & Gamble** · **BP (British Petroleum)** · **Walmart** · **Sanofi** · **Bristol-Myers Squibb** · **PEMEX** · **Televisa** · **Volaris** · **Superior Court of California**
+**Notable clients & sponsors:** **U.S. Department of State** · **LinkedIn** · **Intel** · **Cognizant (3Cloud)** · **Procter & Gamble** · **BP (British Petroleum)** · **Walmart** · **Sanofi** · **Bristol-Myers Squibb** · **PEMEX** · **Televisa** · **Volaris** · **Superior Court of California**
 
 | Industry | Notable Clients | Focus Areas |
 |---|---|---|
@@ -79,6 +85,8 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 
 ### 💼 Featured Projects
 
+- 🎤 **U.S. Department of State — Speaker Program** — Invited expert speaker on **AI & Digital Transformation**; engaging global audiences via U.S. embassies and consulates worldwide
+- 🤝 **AccessAI** *(501(c)(3) nonprofit)* — Member, Board of Directors. AI awareness, training, and equity for underserved communities
 - 🏛️ **Superior Court of California** (San Francisco County) — Juvenile data warehouse, legacy Magic xpa → modern web migration, Power BI governance, ADA / WCAG compliance
 - 🏢 **Intel Corporation** — Enterprise ML, AI image recognition, Big Data platform; IT Site Leader Silicon Valley HQ; 14+ awards including *"Best IT Site Manager Ever"*
 - 🧠 **LinkedIn — Enterprise GenAI Assistant** — GenAI assistant for workplace operations (delivered via 3Cloud / Cognizant)
