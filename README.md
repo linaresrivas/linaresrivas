@@ -63,27 +63,33 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 
 ### 📊 Project Portfolio
 
-**Notable clients & sponsors:** **U.S. Department of State** · **LinkedIn** · **Intel** · **Cognizant (3Cloud)** · **TIBCO Spotfire** · **Geonosys** · **ING** · **Procter & Gamble** · **BP (British Petroleum)** · **Walmart** · **Sanofi** · **Bristol-Myers Squibb** · **PEMEX** · **Televisa** · **Volaris** · **Superior Court of California**
+**Notable clients & sponsors:** **U.S. Department of State** · **LinkedIn** · **Intel** · **Cognizant (3Cloud)** · **TIBCO Spotfire** · **Geonosys** · **ING** · **Procter & Gamble** · **BP (British Petroleum)** · **Walmart** · **Sanofi** · **Bristol-Myers Squibb** · **PEMEX** · **Telcel (América Móvil)** · **Telefónica** · **Televisa** · **Volaris** · **Banco Azteca** · **BANXICO** · **Progresa / Oportunidades** · **Superior Court of California**
 
-| Industry | Notable Clients | Focus Areas |
+Every client below corresponds to a real engagement with archived deliverables (most under NDA; bytes preserved on private storage).
+
+| Industry | Clients delivered | Focus Areas |
 |---|---|---|
-| **AI / SaaS** | **GL-Solutions.AI** — Lucy, Text2SQL, Engineering Framework, AI Eval Framework | Multi-Agent · RAG · MCP · LLM Evaluation · AI Governance |
-| **Big Tech / Enterprise Tech** | **LinkedIn** (3 GenAI engagements via 3Cloud), Elile (LangGraph multi-agent OSINT), **Cognizant (3Cloud)** | GenAI · Vision · Text-to-SQL · GDPR · Multi-Agent |
-| **In-House Enterprise** | **Intel Corporation** — Delivery Leader · IT Site Lead · BI Architect (80+ analytics solutions, 4,000+ users, Centers of Excellence for Data Governance, Big Data & BI) | Enterprise BI · ML · Big Data · Data Governance · COE Leadership |
-| **Government & Justice** | **Superior Court of California** (San Francisco), **PEMEX** (gov-side), SEDESOL, Liconsa, FONACOT, BANXICO (Banco de México), Consejo de la Judicatura Federal, UNAM, GDF (Gobierno de la Ciudad de México), I+D Mexico, Secretaría de Salud | Data Warehousing · Compliance (CJIS · NIST 800-53 · IRS 1075 · ADA · WCAG) · Fraud Detection · BI |
-| **Oil & Gas** | **BP (British Petroleum)** México, **PEMEX** (Natural Gas + 3 divisions), PEMEX-GAS, Gas Natural | Financial DW · Fraud Detection · Operations |
-| **Consumer Packaged Goods** | **Procter & Gamble** (5 engagements: POS, Sales Fundamentals, Real-Time Pricing, Market-Basket, Key Business Drivers), Black & Decker, Kraft, Sigma Alimentos, Gamesa, Whirlpool, La Corona | Sales Analytics · Market-Basket Discovery · Pricing · POS |
-| **Pharma & Healthcare** | **Bristol-Myers Squibb**, **Sanofi-Aventis**, Genomma Lab, ETMS, CIDMEX | Sales & Marketing Analytics · Pricing |
-| **Retail & Commerce** | **Walmart**, Sanborns, Liverpool, CMR | POS · Sales · Market-Basket |
-| **Financial Services** | **BP (British Petroleum)** LATAM Finance, GNP Seguros, Grupo Lorant, ABM, Banco Azteca | Financial DW · Audit · Risk · Insurance · Banking |
-| **Telecom** | **TELMEX (Teléfonos de México)**, Telcel, **Telefónica**, Pegaso, BESTEL | Billing / CDR Analytics |
-| **Logistics & Distribution** | SAFCO, FEMSA (Fomento Económico Mexicano), OGASA, OMA (Operadora Mexicana de Aeropuertos) | Supply Chain · Operations · Distribution |
-| **Media & Entertainment** | **Televisa**, Cinemex, Melate / Pronósticos | Sales · Billing · Audience Analytics |
+| **AI / SaaS** *(own products)* | **GL-Solutions.AI** — Lucy · Lucy 2.0 · Text2SQL · GDPR DB Scanner · EnvMaker · OPS (Azure observability) · AZ_ImageComparison (vision) · Linkedin_img2insight (chart extraction) · OZMetaDB · Engineering Framework · AI Eval Framework | Multi-Agent · RAG · MCP · LLM Evaluation · AI Governance · PII / Compliance |
+| **Big Tech / Enterprise Tech** | **LinkedIn** (3 GenAI engagements via 3Cloud) · **Cognizant (3Cloud)** · **TIBCO Spotfire** (AI eval framework) · **Geonosys** (ID1 + Adaptive Analytics) · Elile (LangGraph multi-agent OSINT) · **Intel Corporation** *(15-yr in-house: 80+ analytics solutions, 4,000+ users, COE leadership)* | GenAI · Vision · Text-to-SQL · GDPR · Multi-Agent · Eval · Big Data · ML |
+| **Government & Justice** — *U.S.* | **Superior Court of California** (San Francisco) · **U.S. Department of State** (Speaker Program) | Court modernization · ADA / WCAG 2.2 AA · PDF/UA-1 · BI governance · diplomatic engagement |
+| **Government & Justice** — *Mexico Federal* | **PEMEX** (gov-side, 3 entities) · **PEMEX-GAS** · **PEMEX-PEP** · **SEDESOL** · **LICONSA** · **BANXICO** (Banco de México) · **Consejo de la Judicatura Federal** (CJF) · **Secretaría de Salud** *(Seguro Popular era)* · **Progresa / Oportunidades** *(federal CCT, 13 cubes — world-recognized poverty-reduction program)* · **IAVE** *(federal toll-tag system via CAPUFE)* · **DICONSA** (REFAC) · **I+D Mexico** · **AMECE / FEA / Solcedi** (CFD e-invoicing compliance) · FONACOT | Data Warehousing · Fraud Detection · Federal BI · Social-impact analytics · Compliance |
+| **Government & Justice** — *Mexico State / City* | **GDF** (Gobierno de la Ciudad de México — Dirección de Ingresos) · **Miguel Hidalgo** (Mexico City delegation) · **UNAM** | Municipal DW · Budget analytics · Academic BI |
+| **Oil & Gas** | **BP** (British Petroleum) México · **PEMEX** (Natural Gas Division + 3 divisions) · **PEMEX-GAS** · **PEMEX-PEP** · **Gas Natural Mexico** | Financial DW · Fraud Detection · Operations · BSC + OLAP + DataMining |
+| **Consumer Packaged Goods** | **Procter & Gamble** Mexico (5 engagements / 8 CABs + KBD) · **Black & Decker** · **Kraft Foods México** · **Sigma Alimentos** (ALFA Group) · **Gamesa-Quaker** (PepsiCo Mexico) · **Whirlpool** · **Chocolate La Corona** · **Coffee Factory** | Sales Analytics · Market-Basket Discovery · Pricing · POS · DSD distribution |
+| **Pharma & Healthcare** | **Bristol-Myers Squibb** México · **Sanofi-Aventis** (Aventis pre-merger) · **Genomma Lab Internacional** · **ETMS** (Electronic Territory Management) · **CIDMEX** · **MAYPO** | Sales & Marketing Analytics · Pricing · Distribution warehouse |
+| **Retail & Commerce** | **Walmart** · **Sanborns** (Grupo Carso, 5 cubes) · **Liverpool** (El Puerto de Liverpool) · **CMR** (Compañía Mexicana de Restaurantes) | POS · Sales · Market-Basket · Loyalty (Tarjeta Dorada) |
+| **Financial Services** | **ING** *(fraud-detection — saved $millions)* · **BP** (British Petroleum) LATAM Finance (15 cubes) · **GNP Seguros** (Grupo Nacional Provincial) · **Grupo Lorant** (Lorant Martínez Salas — broker, 4 cubes) · **ABM** (Asociación de Bancos de México) · **Banco Azteca** (Grupo Salinas) · **Marsh** · **Genesis Seguros** | Financial DW · Audit · Risk · Insurance · Banking · Fraud Detection |
+| **Telecom** | **TELMEX** (Teléfonos de México, 5 cubes) · **Telcel** (América Móvil) · **Telefónica** Movistar México · **Pegaso** (now Telefónica) · **BESTEL** (now Megacable Empresarial) · **TELMEX-Cleansing** *(R&D engagement)* · **New Millenium** (NMT + TMA) | Billing / CDR Analytics · Data Cleansing · Network Operations |
+| **Logistics & Distribution** | **SAFCO** (13-cube dairy distribution) · **FEMSA** (Fomento Económico Mexicano) · **OGASA** (Mexican customs broker / IMMEX) · **OMA** (Operadora Mexicana de Aeropuertos) | Supply Chain · Operations · Distribution · Customs |
+| **Media & Entertainment** | **Televisa** · **Cinemex** *(IT Security audit + Workflow review)* · **Melate / Pronósticos** (Mexican lottery) | Sales · Billing · Audience Analytics · IT Security |
 | **Airline** | **Volaris** | Sales Analytics |
+| **Real Estate / Construction** | **Las Trojes** (Fraccionamiento) | Marketing site · Admin panel |
+| **Web & E-commerce** *(early career)* | **Promoclave** · **Teacari** · **Artesanías de México** · **Expertopolis** · **Intelligence** · **IMEF** · **Cenneg** · **Cibeles** | Classic ASP · Flash · MySQL · Access · early web stacks |
+| **Nonprofit** | **AccessAI** (Member, Board of Directors) | Board governance · AI ethics · equitable access |
 
-> **Totals:** 60+ clients · 13 industries · 200+ OLAP cubes & analytics modules · 79 client repos · 8+ AI/agent systems (private) · 80+ internal analytics solutions at Intel.
+> **Totals:** 70+ clients · 16 industries · 200+ OLAP cubes & analytics modules · 80+ internal analytics solutions at Intel · 11+ GL-Solutions.AI products · 8+ AI/agent systems.
 >
-> Many client repos contain multiple independent OLAP cubes (e.g., SAFCO = 13 cubes, BP Finance = 15 cubes, TELMEX = 5 cubes, P&G = 8 CABs).
+> Many client repos contain multiple independent OLAP cubes (e.g., SAFCO = 13 cubes, BP Finance = 15 cubes, TELMEX = 5 cubes, P&G = 8 CABs, Progresa = 13 cubes). Full catalog under private archive.
 
 ---
 
