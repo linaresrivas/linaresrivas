@@ -63,7 +63,7 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 
 ### 📊 Project Portfolio
 
-**Notable clients & sponsors:** **U.S. Department of State** · **LinkedIn** · **Intel** · **Cognizant (3Cloud)** · **Procter & Gamble** · **BP (British Petroleum)** · **Walmart** · **Sanofi** · **Bristol-Myers Squibb** · **PEMEX** · **Televisa** · **Volaris** · **Superior Court of California**
+**Notable clients & sponsors:** **U.S. Department of State** · **LinkedIn** · **Intel** · **Cognizant (3Cloud)** · **ING** · **Procter & Gamble** · **BP (British Petroleum)** · **Walmart** · **Sanofi** · **Bristol-Myers Squibb** · **PEMEX** · **Televisa** · **Volaris** · **Superior Court of California**
 
 | Industry | Notable Clients | Focus Areas |
 |---|---|---|
@@ -101,7 +101,8 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 - 💬 **GL-Solutions.AI — Text2SQL** — Natural-language enterprise database interface
 - ⚙️ **GL-Solutions.AI — Engineering Framework** — Cross-client AI-assisted development standards, git workflow, code review
 - 📊 **GL-Solutions.AI — AI Eval Framework** — Azure AI Evaluation SDK (GPT-4o + Phi-4 + LangSmith) for production LLM testing
-- 💰 **PEMEX (oil & gas)** — Fraud-detection analytics system that saved millions and triggered new employee policies (Ritter Dragon era)
+- 💰 **ING (financial services)** — Fraud-detection analytics system that saved millions and triggered new employee policies
+- ⛽ **PEMEX (Natural Gas Division)** — 20-TB analytics platform for risk, prediction, fraud, and labor performance; 400+ users; multi-domain decision support
 
 ---
 
