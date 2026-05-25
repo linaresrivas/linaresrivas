@@ -1,8 +1,12 @@
 # Gonzalo L. Linares-Rivas
 
 <p align="center">
-  <b>Founder @ <a href="https://github.com/GL-Solutions-AI">GL-Solutions.AI</a></b> · Azure AI Engineer · Cloud Digital Leader
-  <br/>
+  <a href="https://github.com/linaresrivas">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2800&color=0B5FFF&center=true&vCenter=true&width=720&height=42&lines=Founder+%40+GL-Solutions.AI+%E2%80%94+building+agentic+AI+you+can+audit;AI+Engineer+%C2%B7+Agent+Architect+%C2%B7+AI+Governance;Lucy%3A+130%2B+MCP+tools+%C2%B7+Multi-agent+RAG+%C2%B7+Private+memory;Eval-first.+Privacy-first.+Boring+on+purpose." alt="AI Engineer · Agent Architect · AI Governance" />
+  </a>
+</p>
+
+<p align="center">
   <sub>AI, cloud, and data solutions for government and enterprise — with explainability, auditability, and privacy as first-class requirements.</sub>
 </p>
 
