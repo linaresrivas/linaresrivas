@@ -67,7 +67,7 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 
 Every client below corresponds to a real engagement with archived deliverables (most under NDA; bytes preserved on private storage).
 
-| Industry | Clients delivered | Focus Areas |
+| <font color="#D4AF37">**Industry**</font> | <font color="#D4AF37">**Clients delivered**</font> | <font color="#D4AF37">**Focus Areas**</font> |
 |---|---|---|
 | **AI / SaaS** *(own products)* | **GL-Solutions.AI** — Lucy · Lucy 2.0 · Text2SQL · GDPR DB Scanner · EnvMaker · OPS (Azure observability) · AZ_ImageComparison (vision) · Linkedin_img2insight (chart extraction) · OZMetaDB · Engineering Framework · AI Eval Framework | Multi-Agent · RAG · MCP · LLM Evaluation · AI Governance · PII / Compliance |
 | **Big Tech / Enterprise Tech** | **LinkedIn** (3 GenAI engagements via 3Cloud) · **Cognizant (3Cloud)** · **TIBCO Spotfire** (AI eval framework) · **Geonosys** (ID1 + Adaptive Analytics) · Elile (LangGraph multi-agent OSINT) · **Intel Corporation** *(15-yr in-house: 80+ analytics solutions, 4,000+ users, COE leadership)* | GenAI · Vision · Text-to-SQL · GDPR · Multi-Agent · Eval · Big Data · ML |
