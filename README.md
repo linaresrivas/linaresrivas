@@ -63,8 +63,8 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**. We build
 | 2023 – now | **GL-Solutions.AI** | Founder &amp; Principal AI Architect: agentic AI, data modernization, AI governance |
 | 2024 – 2025 | **3Cloud** *(now Cognizant)* | Senior AI Engineer: GenAI for **LinkedIn**, LLM evaluation for **TIBCO Spotfire**, GDPR/PII AI for Fortune-50 |
 | 2007 – 2023 | **Intel** | 9 roles up to director-level: Enterprise Data Platform, 0→200+ engineers, HQ IT Site Leader, *"Best IT Site Manager Ever"* |
-| 2001 – 2007 | **Ritter Dragon** | Founding partner: 80+ BI/data-mining engagements for P&amp;G, Walmart, BP, PEMEX, ING, TELMEX, and Mexican federal government |
-| 1990 – 2001 | **ADTSI · OZ · APICE · SIPROSS** | IMSS migration to 40 HP9000 servers, SAT Y2K certification, e-commerce platforms (130+ stores), touchscreen kiosks |
+| 2000 – 2007 | **Ritter Dragon** | Founding partner: 80+ BI/data-mining engagements for P&amp;G, Walmart, BP, PEMEX, ING, TELMEX, and Mexican federal government |
+| 1990 – 2000 | **ADTSI · OZ · APICE · SIPROSS** | IMSS migration to 40 HP9000 servers, SAT Y2K certification, e-commerce platforms (130+ stores), touchscreen kiosks |
 
 ---
 
