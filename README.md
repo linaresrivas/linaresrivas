@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/linaresrivas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2800&color=0B5FFF&center=true&vCenter=true&width=720&height=42&lines=Founder+%40+GL-Solutions.AI+%E2%80%94+building+agentic+AI+you+can+audit;AI+Engineer+%C2%B7+Agent+Architect+%C2%B7+AI+Governance;Lucy%3A+130%2B+MCP+tools+%C2%B7+Multi-agent+RAG+%C2%B7+Private+memory;Eval-first.+Privacy-first.+Boring+on+purpose." alt="AI Engineer · Agent Architect · AI Governance" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2800&color=0B5FFF&center=true&vCenter=true&width=720&height=42&lines=The+engineer+executives+call+when+it+must+work;AI+Architect+%C2%B7+Agentic+AI+%C2%B7+LLM+Evals+%C2%B7+AI+Governance;AI+governance+in+production%3A+courts%2C+claims%2C+finance;ex-Intel%3A+0%E2%86%92200%2B+engineers+%C2%B7+%2435M%2B+business+value;Eval-first.+Privacy-first.+Boring+on+purpose." alt="AI Architect · Agentic AI · LLM Evals · AI Governance" />
   </a>
 </p>
 
@@ -29,13 +29,41 @@
   🤝 <b>Member, Board of Directors @ <a href="https://accessai.org">AccessAI</a></b> · AI awareness &amp; training for underserved groups
 </p>
 
+### 🤝 Work with me
+
+| 👔 **Hire me** | 🏢 **Engage GL-Solutions.AI** |
+|---|---|
+| Open to **Head / Director of AI &amp; Data**, **Principal AI Architect**, and **AI Evaluation &amp; Governance** leadership roles. Remote or SF Bay Area. | Discovery → Pilot → Build → Run engagements for agentic AI, data modernization, and AI governance. U.S. public sector and enterprise. English or Spanish. |
+| <a href="mailto:gonzalo@gl-solutions.ai?subject=Role%20conversation%20%E2%80%94%20resume%20request"><img alt="Request resume" src="https://img.shields.io/badge/Request%20resume-0b5fff?style=for-the-badge"/></a> <a href="https://www.linkedin.com/in/linaresrivas/"><img alt="LinkedIn" src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="mailto:info@gl-solutions.ai?subject=GL-Solutions.AI%20Discovery%20inquiry"><img alt="Start a Discovery" src="https://img.shields.io/badge/Start%20a%20Discovery-D4AF37?style=for-the-badge"/></a> <a href="https://github.com/GL-Solutions-AI"><img alt="Company profile" src="https://img.shields.io/badge/Company%20profile-24292e?style=for-the-badge&logo=github&logoColor=white"/></a> |
+
 ---
 
 ### 🚀 About
 
-I'm a **Tech OG** with experience, partners and techies transforming and innovating businesses through AI, cloud, and data analytics. My career spans oil, retail, pharmaceuticals, telecommunications, and government — delivering multimillion-dollar impact by turning bold visions into production systems.
+**I'm the engineer executives call when it absolutely must work.** I've spent 24+ years turning data and AI into production systems that people rely on:
 
-Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we design and deliver systems where **explainability, auditability, and privacy** are first-class requirements, not afterthoughts.
+- **Builder:** still hands-on every day in Python, Azure, MCP, and LangGraph. I've shipped 15+ AI and agent systems since 2024.
+- **Fixer:** I modernize legacy estates (SSAS 2000, Magic xpa, Oracle, Access) into governed cloud platforms without losing an audit trail.
+- **Leader:** at Intel I grew an organization from 0 to 200+ engineers across 3 countries, with 98%+ on-time delivery and $35M+ in quantified business value.
+
+Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**. We build AI systems where **explainability, auditability, and privacy** are requirements, not afterthoughts. Our clients include courts, insurers, and Fortune-50 enterprises.
+
+### 🔭 Now shipping (2026)
+
+- 🏛️ **Superior Court of California, San Francisco:** juvenile case data warehouse (Oracle → Azure medallion), Magic xpa → FastAPI + Next.js, Power BI governance and health scoring, ADA/PDF-UA remediation, **APD/NorthPoint ↔ CTrack, DocuSign &amp; JUSTIS integration**, and **CTrack ↔ RevQ financial reconciliation** for court-ordered fines, fees, and restitution
+- 🧾 **Evidence-cited claims AI:** a human-in-the-loop health-check assistant for an insurance claims-management client. Every statement cites its source, guardrails are enforced in code, and approvals are immutable.
+- 📈 **Agentic SAA:** ~60 cooperating agents for institutional strategic asset allocation, with structured debate, IPS compliance, and a re-runnable audit trail
+- 🗄️ **db-superpowers:** Oracle / SQL Server / Access → Microsoft Fabric migration with checksum reconciliation and drift detection
+- 🤖 **Lucy:** an agentic operations platform with 130+ MCP tools, 25 specialist agents, multi-agent RAG, and private memory
+
+### 🧭 Career at a glance
+
+| When | Where | What |
+|---|---|---|
+| 2023 – now | **GL-Solutions.AI** | Founder &amp; Principal AI Architect: agentic AI, data modernization, AI governance |
+| 2024 – 2025 | **3Cloud** *(now Cognizant)* | Senior AI Engineer: GenAI for **LinkedIn**, LLM evaluation for **TIBCO Spotfire**, GDPR/PII AI for Fortune-50 |
+| 2007 – 2023 | **Intel** | 9 roles up to director-level: Enterprise Data Platform, 0→200+ engineers, HQ IT Site Leader, *"Best IT Site Manager Ever"* |
+| 2002 – 2007 | **Ritter Dragon** | Founding partner: 60+ BI/data-mining engagements for P&amp;G, Walmart, BP, PEMEX, TELMEX, and Mexican federal government |
 
 ---
 
@@ -43,9 +71,7 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**, where we
 
 `Python` · `FastAPI` · `Next.js` · `JavaScript` · `Streamlit` · `SQL` · `Oracle` · `SQL Server` · `PostgreSQL` · `Azure` · `GCP` · `Azure Functions` · `Azure OpenAI` · `AI & LLMs` · `Agentic Systems` · `MCP` · `Claude API` · `n8n` · `Data Engineering` · `Medallion Architecture` · `SSAS / OLAP` · `Power BI` · `TIBCO Spotfire` · `DAX` · `Docker` · `GitHub Actions` · `Bicep / IaC` · `Data Governance` · `GDPR / PII` · `Compliance` · `Shell Scripting`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linaresrivas&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+<sub><i>Most production code lives in private client repos under NDA, so GitHub's public stats undercount it.</i></sub>
 
 ---
 
@@ -97,7 +123,10 @@ Every client below corresponds to a real engagement with archived deliverables (
 
 - 🎤 **U.S. Department of State — Speaker Program** — Invited expert speaker on **AI & Digital Transformation**; engaging global audiences via U.S. embassies and consulates worldwide
 - 🤝 **AccessAI** *(501(c)(3) nonprofit)* — Member, Board of Directors. AI awareness, training, and equity for underserved communities
-- 🏛️ **Superior Court of California** (San Francisco County) — Juvenile data warehouse, legacy Magic xpa → modern web migration, Power BI governance, ADA / WCAG compliance
+- 🏛️ **Superior Court of California** (San Francisco County) — Juvenile data warehouse, legacy Magic xpa → modern web migration, Power BI governance, ADA / WCAG compliance, APD/NorthPoint ↔ CTrack/DocuSign/JUSTIS integration, CTrack ↔ RevQ financial reconciliation
+- 🧾 **Insurance claims-management client — Evidence-cited claims AI** — Human-in-the-loop health checks; every statement cites verifiable evidence; claim-scoped retrieval, clinical-advice guard, immutable approvals
+- 📈 **GL-Solutions.AI — Agentic SAA** — ~60-agent strategic asset allocation (macro → CMAs → covariance → portfolio → peer review → CIO ensemble) with IPS compliance and full audit trail
+- 🗄️ **GL-Solutions.AI — db-superpowers** — Oracle / SQL Server / Access → Microsoft Fabric migration toolkit; deterministic, golden-tested
 - 🏢 **Intel Corporation** — Enterprise ML, AI image recognition, Big Data platform; IT Site Leader Silicon Valley HQ; 14+ awards including *"Best IT Site Manager Ever"*
 - 🧠 **LinkedIn — Enterprise GenAI Assistant** — GenAI assistant for workplace operations (delivered via 3Cloud / Cognizant)
 - 🧠 **LinkedIn — GenAI Workplace Insights (v2)** — GenAI-powered insights for internal workplace data
@@ -117,9 +146,11 @@ Every client below corresponds to a real engagement with archived deliverables (
 
 ### 🏆 Proud Moments
 
-- 🏅 Recognized with **14+ awards** for innovation, revenue, business-unit growth, and leadership — including *"Best IT Site Manager Ever"* (2023)
-- 💰 **Saved millions** through a production fraud-detection system using advanced analytics
-- 📈 **Optimized worldwide operations** with data-driven strategies across multiple industries
+- 🏅 Recognized with **14+ awards** for innovation, revenue, business-unit growth, and leadership — including *"Best IT Site Manager Ever"* (2023) and first Latin American HQ IT Site Leader at Intel
+- 👥 **Built organizations from 0 → 200+ engineers** across the U.S., Costa Rica, the Philippines, and India — 30 agile teams, $25M portfolio, 98%+ on-time delivery
+- 💰 **$35M+ quantified business value** at Intel — $15M+ cost avoidance (predictive analytics, fraud detection, automation), $8M/yr operating cost eliminated, forecast accuracy +35%
+- 🎤 **Keynote, Startup Summit Brazil 2025** (10,000+ attendees) via the U.S. Department of State Speaker Program
+- 💡 **Saved millions** through a production fraud-detection system that also reshaped employee policy
 
 ---
 
@@ -132,11 +163,9 @@ Every client below corresponds to a real engagement with archived deliverables (
 
 - **Microsoft Certified: Azure AI Engineer Associate** (ID: 7740B4CC97965F64)
 - **Google Cloud Digital Leader** (ID: g4622, 2024–2027)
-- Agentic AI Fundamentals — Architectures, Frameworks & Applications (LinkedIn, 2025)
-- Fundamentals of Agentic AI — Business Implications & Ethical Insights (LinkedIn, 2025)
-- Developing LLM Applications with LangChain (DataCamp)
-- Copilot Foundations · Computer Vision · NLP · Generative AI · Document Intelligence · Security Copilot · Semantic Kernel · Azure AI Services (Microsoft)
-- AI Ethics · Prompt Engineering · OpenAI API · PyTorch · Data Visualization (DataCamp)
+- **Google AI Leadership** (ID: 64622)
+- Agentic AI Fundamentals · Fundamentals of Agentic AI — Business & Ethics (LinkedIn, 2025)
+- 100+ Microsoft Learn &amp; DataCamp modules — Azure AI Foundry, evaluation &amp; content safety, Semantic Kernel, LangChain, AI ethics, data privacy
 
 *(Full list on [LinkedIn](https://www.linkedin.com/in/linaresrivas/))*
 
