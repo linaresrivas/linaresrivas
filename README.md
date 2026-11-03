@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  <b>35+ years · 250 projects · 85+ clients · 17 industries · 250+ OLAP cubes &amp; analytics modules · 15+ AI / agent systems · ex-Intel</b>
+  <b>35+ years · 276 projects · 85+ clients · 17 industries · 250+ OLAP cubes &amp; analytics modules · 15+ AI / agent systems · ex-Intel</b>
   <br/>
-  <sub><i>250 projects documented since 1990 · full catalog under private archive</i></sub>
+  <sub><i><a href="PROJECTS.md">276 documented projects since 1990 → full project catalog</a></i></sub>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 
 ### 🚀 About
 
-**I'm the engineer executives call when it absolutely must work.** I've spent 35+ years, with 250 documented projects for 85+ clients, turning data and AI into production systems that people rely on:
+**I'm the engineer executives call when it absolutely must work.** I've spent 35+ years, with 276 documented projects for 85+ clients, turning data and AI into production systems that people rely on:
 
 - **Builder:** still hands-on every day in Python, Azure, MCP, and LangGraph. I've shipped 15+ AI and agent systems since 2024.
 - **Fixer:** I modernize legacy estates (SSAS 2000, Magic xpa, Oracle, Access) into governed cloud platforms without losing an audit trail.
@@ -114,9 +114,9 @@ Every client below corresponds to a real engagement with archived deliverables (
 | **Web & E-commerce** *(early career)* | **Promoclave** · **Teacari** · **Artesanías de México** · **Expertopolis** · **Intelligence** · **IMEF** · **Cenneg** · **Cibeles** | Classic ASP · Flash · MySQL · Access · early web stacks |
 | **Nonprofit** | **AccessAI** (Member, Board of Directors) | Board governance · AI ethics · equitable access |
 
-> **Totals:** 250 projects · 85+ clients · 17 industries · 250+ OLAP cubes & analytics modules · 80+ internal analytics solutions at Intel · 11+ GL-Solutions.AI products · 15+ AI / agent systems & products.
+> **Totals:** 276 projects · 85+ clients · 17 industries · 250+ OLAP cubes & analytics modules · 80+ internal analytics solutions at Intel · 11+ GL-Solutions.AI products · 15+ AI / agent systems & products.
 >
-> Many client repos contain multi-cube suites (e.g., SAFCO = 13, BP Finance = 15, Progresa / Oportunidades = 13, P&G = 8 CABs, MAYPO = 6, TBD = 6, TELMEX = 5, Sanborns = 5, CMR = 5, Lorant = 4). Full catalog under private archive.
+> Many client repos contain multi-cube suites (e.g., SAFCO = 13, BP Finance = 15, Progresa / Oportunidades = 13, P&G = 8 CABs, MAYPO = 6, TBD = 6, TELMEX = 5, Sanborns = 5, CMR = 5, Lorant = 4). Full catalog under private archive. **[→ Browse the public project catalog](PROJECTS.md)**
 
 ---
 
