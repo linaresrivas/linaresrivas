@@ -116,7 +116,7 @@ Every client below corresponds to a real engagement with archived deliverables (
 
 > **Totals:** 276 projects · 85+ clients · 17 industries · 250+ OLAP cubes & analytics modules · 80+ internal analytics solutions at Intel · 11+ GL-Solutions.AI products · 15+ AI / agent systems & products.
 >
-> Many client repos contain multi-cube suites (e.g., SAFCO = 13, BP Finance = 15, Progresa / Oportunidades = 13, P&G = 8 CABs, MAYPO = 6, TBD = 6, TELMEX = 5, Sanborns = 5, CMR = 5, Lorant = 4). Full catalog under private archive. **[→ Browse all 276 projects](PROJECTS.md)**
+> Many client repos contain multi-cube suites (e.g., SAFCO = 13, BP Finance = 15, Progresa / Oportunidades = 13, P&G = 8 CABs, MAYPO = 6, TBD = 6, TELMEX = 5, Sanborns = 5, CMR = 5, Lorant = 4). Full catalog under private archive. **[→ Browse the public project catalog](PROJECTS.md)**
 
 ---
 
