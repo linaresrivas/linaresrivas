@@ -71,7 +71,7 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**. We build
 
 `Python` · `FastAPI` · `Next.js` · `JavaScript` · `Streamlit` · `SQL` · `Oracle` · `SQL Server` · `PostgreSQL` · `Azure` · `GCP` · `Azure Functions` · `Azure OpenAI` · `AI & LLMs` · `Agentic Systems` · `MCP` · `Claude API` · `n8n` · `Data Engineering` · `Medallion Architecture` · `SSAS / OLAP` · `Power BI` · `TIBCO Spotfire` · `DAX` · `Docker` · `GitHub Actions` · `Bicep / IaC` · `Data Governance` · `GDPR / PII` · `Compliance` · `Shell Scripting`
 
-<sub><i>Most production code lives in private client repos under NDA, so GitHub's public stats undercount it.</i></sub>
+<sub><i>All code lives in private repositories under NDA. Architecture walkthroughs are available on request.</i></sub>
 
 ---
 
