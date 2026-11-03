@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  <b>75+ clients · 16 industries · 250+ OLAP cubes &amp; analytics modules · 15+ AI / agent systems &amp; products · ex-Intel</b>
+  <b>35+ years · 250 projects · 85+ clients · 17 industries · 250+ OLAP cubes &amp; analytics modules · 15+ AI / agent systems · ex-Intel</b>
   <br/>
-  <sub><i>75+ clients across full career · 10+ actively tracked under GL-Solutions.AI · full catalog under private archive</i></sub>
+  <sub><i>250 projects documented since 1990 · full catalog under private archive</i></sub>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 
 ### 🚀 About
 
-**I'm the engineer executives call when it absolutely must work.** I've spent 24+ years turning data and AI into production systems that people rely on:
+**I'm the engineer executives call when it absolutely must work.** I've spent 35+ years, with 250 documented projects for 85+ clients, turning data and AI into production systems that people rely on:
 
 - **Builder:** still hands-on every day in Python, Azure, MCP, and LangGraph. I've shipped 15+ AI and agent systems since 2024.
 - **Fixer:** I modernize legacy estates (SSAS 2000, Magic xpa, Oracle, Access) into governed cloud platforms without losing an audit trail.
@@ -63,7 +63,8 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**. We build
 | 2023 – now | **GL-Solutions.AI** | Founder &amp; Principal AI Architect: agentic AI, data modernization, AI governance |
 | 2024 – 2025 | **3Cloud** *(now Cognizant)* | Senior AI Engineer: GenAI for **LinkedIn**, LLM evaluation for **TIBCO Spotfire**, GDPR/PII AI for Fortune-50 |
 | 2007 – 2023 | **Intel** | 9 roles up to director-level: Enterprise Data Platform, 0→200+ engineers, HQ IT Site Leader, *"Best IT Site Manager Ever"* |
-| 2002 – 2007 | **Ritter Dragon** | Founding partner: 60+ BI/data-mining engagements for P&amp;G, Walmart, BP, PEMEX, TELMEX, and Mexican federal government |
+| 2001 – 2007 | **Ritter Dragon** | Founding partner: 80+ BI/data-mining engagements for P&amp;G, Walmart, BP, PEMEX, ING, TELMEX, and Mexican federal government |
+| 1990 – 2001 | **ADTSI · OZ · APICE · SIPROSS** | IMSS migration to 40 HP9000 servers, SAT Y2K certification, e-commerce platforms (130+ stores), touchscreen kiosks |
 
 ---
 
@@ -104,7 +105,7 @@ Every client below corresponds to a real engagement with archived deliverables (
 | **Consumer Packaged Goods** | **Procter & Gamble** Mexico (5 engagements / 8 CABs + KBD) · **Black & Decker** · **Kraft Foods México** · **Sigma Alimentos** (ALFA Group) · **Gamesa-Quaker** (PepsiCo Mexico) · **Whirlpool** · **Chocolate La Corona** · **Coffee Factory** | Sales Analytics · Market-Basket Discovery · Pricing · POS · DSD distribution |
 | **Pharma & Healthcare** | **Bristol-Myers Squibb** México · **Sanofi-Aventis** (Aventis pre-merger) · **Genomma Lab Internacional** · **ETMS** (Electronic Territory Management) · **CIDMEX** · **MAYPO** | Sales & Marketing Analytics · Pricing · Distribution warehouse |
 | **Retail & Commerce** | **Walmart** · **Sanborns** (Grupo Carso, 5 cubes) · **Liverpool** (El Puerto de Liverpool) · **CMR** (Compañía Mexicana de Restaurantes) | POS · Sales · Market-Basket · Loyalty (Tarjeta Dorada) |
-| **Financial Services** | **ING** *(fraud-detection — saved $millions)* · **BP** (British Petroleum) LATAM Finance (15 cubes) · **GNP Seguros** (Grupo Nacional Provincial) · **Grupo Lorant** (Lorant Martínez Salas — broker, 4 cubes) · **ABM** (Asociación de Bancos de México) · **Banco Azteca** (Grupo Salinas) · **Marsh** · **Genesis Seguros** | Financial DW · Audit · Risk · Insurance · Banking · Fraud Detection |
+| **Financial Services** | **ING** *(medical-fraud detection · claims workflow 27→14 days)* · **BP** (British Petroleum) LATAM Finance (15 cubes) · **GNP Seguros** (Grupo Nacional Provincial) · **Grupo Lorant** (Lorant Martínez Salas — broker, 4 cubes) · **ABM** (Asociación de Bancos de México) · **Banco Azteca** (Grupo Salinas) · **Marsh** · **Genesis Seguros** | Financial DW · Audit · Risk · Insurance · Banking · Fraud Detection |
 | **Telecom** | **TELMEX** (Teléfonos de México, 5 cubes) · **Telcel** (América Móvil) · **Telefónica** Movistar México · **Pegaso** (now Telefónica) · **BESTEL** (now Megacable Empresarial) · **TELMEX-Cleansing** *(R&D engagement)* · **New Millenium** (NMT + TMA) | Billing / CDR Analytics · Data Cleansing · Network Operations |
 | **Logistics & Distribution** | **SAFCO** (13-cube dairy distribution) · **FEMSA** (Fomento Económico Mexicano) · **OGASA** (Mexican customs broker / IMMEX) · **OMA** (Operadora Mexicana de Aeropuertos) | Supply Chain · Operations · Distribution · Customs |
 | **Media & Entertainment** | **Televisa** · **Cinemex** *(IT Security audit + Workflow review)* · **Melate / Pronósticos** (Mexican lottery) | Sales · Billing · Audience Analytics · IT Security |
@@ -113,7 +114,7 @@ Every client below corresponds to a real engagement with archived deliverables (
 | **Web & E-commerce** *(early career)* | **Promoclave** · **Teacari** · **Artesanías de México** · **Expertopolis** · **Intelligence** · **IMEF** · **Cenneg** · **Cibeles** | Classic ASP · Flash · MySQL · Access · early web stacks |
 | **Nonprofit** | **AccessAI** (Member, Board of Directors) | Board governance · AI ethics · equitable access |
 
-> **Totals:** 75+ clients · 16 industries · 250+ OLAP cubes & analytics modules · 80+ internal analytics solutions at Intel · 11+ GL-Solutions.AI products · 15+ AI / agent systems & products.
+> **Totals:** 250 projects · 85+ clients · 17 industries · 250+ OLAP cubes & analytics modules · 80+ internal analytics solutions at Intel · 11+ GL-Solutions.AI products · 15+ AI / agent systems & products.
 >
 > Many client repos contain multi-cube suites (e.g., SAFCO = 13, BP Finance = 15, Progresa / Oportunidades = 13, P&G = 8 CABs, MAYPO = 6, TBD = 6, TELMEX = 5, Sanborns = 5, CMR = 5, Lorant = 4). Full catalog under private archive.
 
@@ -139,7 +140,8 @@ Every client below corresponds to a real engagement with archived deliverables (
 - 💬 **GL-Solutions.AI — Text2SQL** — Natural-language enterprise database interface
 - ⚙️ **GL-Solutions.AI — Engineering Framework** — Cross-client AI-assisted development standards, git workflow, code review
 - 📊 **GL-Solutions.AI — AI Eval Framework** — Azure AI Evaluation SDK (GPT-4o + Phi-4 + LangSmith) for production LLM testing
-- 💰 **ING (financial services)** — Fraud-detection analytics system that saved millions and triggered new employee policies
+- 💰 **ING (insurance)** — Medical-fraud detection that uncovered fraud patterns and legal cases; claims-workflow monitoring cut response time from 27 to 14 days
+- 🔎 **PEMEX** — Purchase-order fraud-correlation model that saved millions and triggered new employee policies
 - ⛽ **PEMEX (Natural Gas Division)** — 20-TB analytics platform for risk, prediction, fraud, and labor performance; 400+ users; multi-domain decision support
 
 ---
@@ -150,7 +152,7 @@ Every client below corresponds to a real engagement with archived deliverables (
 - 👥 **Built organizations from 0 → 200+ engineers** across the U.S., Costa Rica, the Philippines, and India — 30 agile teams, $25M portfolio, 98%+ on-time delivery
 - 💰 **$35M+ quantified business value** at Intel — $15M+ cost avoidance (predictive analytics, fraud detection, automation), $8M/yr operating cost eliminated, forecast accuracy +35%
 - 🎤 **Keynote, Startup Summit Brazil 2025** (10,000+ attendees) via the U.S. Department of State Speaker Program
-- 💡 **Saved millions** through a production fraud-detection system that also reshaped employee policy
+- 💡 **Saved PEMEX millions** with a fraud-correlation model that triggered new employee policies
 
 ---
 
