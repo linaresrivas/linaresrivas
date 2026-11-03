@@ -83,7 +83,7 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**. We build
 - 🏛️ **Legacy Modernization** — Mainframe, Magic xpa, packaged-CMS migrations to modern web stacks (FastAPI + Next.js); SSAS 2000 / OLAP to cloud-native analytics
 - 🛡️ **Governance & Compliance** — CJIS, NIST 800-53, IRS 1075, GDPR, CCPA, ADA / WCAG 2.1 AA, Section 508, PDF accessibility (ISO 32000), PII detection
 - 📊 **BI & Analytics** — Power BI + TIBCO Spotfire governance, health scoring, refresh reliability, DAX + SQL optimization; SSAS/OLAP cubes across 20+ industries
-- ⚙️ **Platform & Dev Tooling** — AI-assisted engineering frameworks, CI/CD automation, repo ops, reusable cross-client standards, homelab automation (n8n, Docker, MCP)
+- ⚙️ **Platform & Dev Tooling** — AI-assisted engineering frameworks, CI/CD automation, repo ops, reusable cross-client standards, self-healing infrastructure automation (n8n, Docker, MCP agents with human-in-the-loop approvals)
 
 ---
 
