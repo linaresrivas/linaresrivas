@@ -1,12 +1,12 @@
 # Project Catalog — Gonzalo L. Linares-Rivas
 
-**276 documented projects since 1990** · 264 listed here · 85+ clients across 17 industries.
+**276 documented projects** · 264 listed here · 85+ clients across 17 industries.
 
 The remainder are internal tooling, pre-engagement proposals, or details under NDA. Client code and deliverables are private; architecture walkthroughs are available on request.
 
 [← Back to profile](README.md) · [GL-Solutions.AI](https://github.com/GL-Solutions-AI) · [LinkedIn](https://www.linkedin.com/in/linaresrivas/)
 
-**Jump to:** [GL-Solutions.AI](#gl-solutionsai--founder--principal-ai-architect--2023--present) · [3Cloud (now Cognizant)](#3cloud-now-cognizant--senior-ai-engineer--2024--2025) · [Intel Corporation](#intel-corporation--bi-developer--director-level-leadership--2007--2023-first-year-via-cybersoft) · [Ritter Dragon](#ritter-dragon--founding-partner--senior-bi-architect--2000--2007) · [OZ](#oz--independent-consulting--2000--2004) · [ADTSI](#adtsi--founding-partner--1997--2000) · [Early career](#early-career--apice-sipross-newlab-producciones-vega-collibri--1990--1997)
+**Jump to:** [GL-Solutions.AI](#gl-solutionsai--founder--principal-ai-architect--2023--present) · [3Cloud (now Cognizant)](#3cloud-now-cognizant--senior-ai-engineer--2024--2025) · [Intel Corporation](#intel-corporation--bi-developer--director-level-leadership--2007--2023-first-year-via-cybersoft) · [Ritter Dragon](#ritter-dragon--founding-partner--senior-bi-architect--2000--2007) · [OZ](#oz--independent-consulting--2000--2004) · [ADTSI](#adtsi--founding-partner--1997--2000) · [Early career](#early-career--apice-sipross-newlab-producciones-vega-collibri)
 
 
 ## GL-Solutions.AI · Founder & Principal AI Architect · 2023 – present
@@ -285,7 +285,7 @@ The remainder are internal tooling, pre-engagement proposals, or details under N
 | 1997 | IMSS | Supply (abastecimiento) system bid |
 | 1997 | IMSS | Personnel system bid |
 
-## Early career · APICE, SIPROSS, NEWLAB, Producciones Vega, Collibri · 1990 – 1997
+## Early career · APICE, SIPROSS, NEWLAB, Producciones Vega, Collibri
 
 <sub>30 projects</sub>
 
