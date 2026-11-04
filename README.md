@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  <b>35+ years · 276 projects · 85+ clients · 17 industries · 250+ OLAP cubes &amp; analytics modules · 15+ AI / agent systems · ex-Intel</b>
+  <b>20+ years · 276 projects · 85+ clients · 17 industries · 250+ OLAP cubes &amp; analytics modules · 15+ AI / agent systems · ex-Intel</b>
   <br/>
-  <sub><i><a href="PROJECTS.md">276 documented projects since 1990 → full project catalog</a></i></sub>
+  <sub><i><a href="PROJECTS.md">276 documented projects → full project catalog</a></i></sub>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 
 ### 🚀 About
 
-**I'm the engineer executives call when it absolutely must work.** I've spent 35+ years, with 276 documented projects for 85+ clients, turning data and AI into production systems that people rely on:
+**I'm the engineer executives call when it absolutely must work.** I've spent 20+ years, with 276 documented projects for 85+ clients, turning data and AI into production systems that people rely on:
 
 - **Builder:** still hands-on every day in Python, Azure, MCP, and LangGraph. I've shipped 15+ AI and agent systems since 2024.
 - **Fixer:** I modernize legacy estates (SSAS 2000, Magic xpa, Oracle, Access) into governed cloud platforms without losing an audit trail.
@@ -64,7 +64,7 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**. We build
 | 2024 – 2025 | **3Cloud** *(now Cognizant)* | Senior AI Engineer: GenAI for **LinkedIn**, LLM evaluation for **TIBCO Spotfire**, GDPR/PII AI for Fortune-50 |
 | 2007 – 2023 | **Intel** | 9 roles up to director-level: Enterprise Data Platform, 0→200+ engineers, HQ IT Site Leader, *"Best IT Site Manager Ever"* |
 | 2000 – 2007 | **Ritter Dragon** | Founding partner: 80+ BI/data-mining engagements for P&amp;G, Walmart, BP, PEMEX, ING, TELMEX, and Mexican federal government |
-| 1990 – 2000 | **ADTSI · OZ · APICE · SIPROSS** | IMSS migration to 40 HP9000 servers, SAT Y2K certification, e-commerce platforms (130+ stores), touchscreen kiosks |
+| Earlier career | **ADTSI · OZ · APICE · SIPROSS** | IMSS migration to 40 HP9000 servers, SAT Y2K certification, e-commerce platforms (130+ stores), touchscreen kiosks |
 
 ---
 
