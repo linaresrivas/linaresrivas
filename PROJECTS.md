@@ -226,7 +226,7 @@ The remainder are internal tooling, pre-engagement proposals, or details under N
 | Oct 2003 | Sanborns | Sales data mining + OLAP over SAP |
 | Nov - Dec 2003 | Sigma Alimentos | Manufacturing/distribution reporting (SAP BW + MIS) |
 | Aug 2003 | FONACOT | BI platform + DW architecture, DB2 tuning, DeltaMaster data mining |
-| Dec 2003 - Mar 2004 | BP (British Petroleum) Mexico | LATAM financial consolidation DW (SUN ERP + SAP) |
+| Dec 2003 - Mar 2004 | BP (British Petroleum) Mexico | Americas financial consolidation DW, all countries (SUN ERP + SAP) |
 | 2003 | Sigma Alimentos | Daily-sales cube |
 | 2003 | Coffee Factory | Sales/purchases/COGS PoC |
 | 2003 | Sanborns | 5-cube retail suite |
