@@ -44,9 +44,9 @@
 
 - **Builder:** still hands-on every day in Python, Azure, MCP, and LangGraph. I've shipped 15+ AI and agent systems since 2024.
 - **Fixer:** I modernize legacy estates (SSAS 2000, Magic xpa, Oracle, Access) into governed cloud platforms without losing an audit trail.
-- **Leader:** at Intel I grew an organization from 0 to 200+ engineers across 3 countries, with 98%+ on-time delivery and $35M+ in quantified business value.
+- **Leader:** at Intel I grew an organization from 0 to 200+ engineers across 4 countries, with 98%+ on-time delivery and $35M+ in quantified business value.
 
-Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**. We build AI systems where **explainability, auditability, and privacy** are requirements, not afterthoughts. Our clients include courts, insurers, and Fortune-50 enterprises.
+Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**. We build AI systems where **explainability, auditability, and privacy** are requirements, not afterthoughts. Our clients include courts, insurers, and top companies.
 
 ### 🔭 Now shipping (2026)
 
@@ -61,7 +61,7 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**. We build
 | When | Where | What |
 |---|---|---|
 | 2023 – now | **GL-Solutions.AI** | Founder &amp; Principal AI Architect: agentic AI, data modernization, AI governance |
-| 2024 – 2025 | **3Cloud** *(now Cognizant)* | Senior AI Engineer: GenAI for **LinkedIn**, LLM evaluation for **TIBCO Spotfire**, GDPR/PII AI for Fortune-50 |
+| 2024 – 2025 | **3Cloud** *(now Cognizant)* | Senior AI Engineer: GenAI for **LinkedIn**, LLM evaluation for **TIBCO Spotfire**, GDPR/PII AI for top companies |
 | 2007 – 2023 | **Intel** | 9 roles up to director-level: Enterprise Data Platform, 0→200+ engineers, HQ IT Site Leader, *"Best IT Site Manager Ever"* |
 | 2000 – 2007 | **Ritter Dragon** | Founding partner: 80+ BI/data-mining engagements for P&amp;G, Walmart, BP, PEMEX, ING, TELMEX, and Mexican federal government |
 | Earlier career | **ADTSI · OZ · APICE · SIPROSS** | IMSS migration to 40 HP9000 servers, SAT Y2K certification, e-commerce platforms (130+ stores), touchscreen kiosks |
@@ -82,8 +82,8 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**. We build
 - ☁️ **Cloud Architecture** — Azure (Fabric, Data Factory, Functions, Bicep IaC), GCP, split-plane government + commercial deployments
 - 🗄️ **Data Engineering** — Medallion (Bronze / Silver / Gold), schema contracts, lineage, data quality gates, Oracle + PostgreSQL + SQL Server pipelines
 - 🏛️ **Legacy Modernization** — Mainframe, Magic xpa, packaged-CMS migrations to modern web stacks (FastAPI + Next.js); SSAS 2000 / OLAP to cloud-native analytics
-- 🛡️ **Governance & Compliance** — CJIS, NIST 800-53, IRS 1075, GDPR, CCPA, ADA / WCAG 2.1 AA, Section 508, PDF accessibility (ISO 32000), PII detection
-- 📊 **BI & Analytics** — Power BI + TIBCO Spotfire governance, health scoring, refresh reliability, DAX + SQL optimization; SSAS/OLAP cubes across 20+ industries
+- 🛡️ **Governance & Compliance** — CJIS, NIST 800-53, IRS 1075, GDPR, CCPA, ADA / WCAG 2.2 AA, Section 508, PDF accessibility (ISO 32000), PII detection
+- 📊 **BI & Analytics** — Power BI + TIBCO Spotfire governance, health scoring, refresh reliability, DAX + SQL optimization; SSAS/OLAP cubes across 17 industries
 - ⚙️ **Platform & Dev Tooling** — AI-assisted engineering frameworks, CI/CD automation, repo ops, reusable cross-client standards, self-healing infrastructure automation (n8n, Docker, MCP agents with human-in-the-loop approvals)
 
 ---
@@ -97,7 +97,7 @@ Every client below corresponds to a real engagement with archived deliverables (
 | ![Industry](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&color=D4AF37&center=true&vCenter=true&width=130&height=28&lines=Industry&duration=1&pause=99999999&repeat=false) | ![Clients delivered](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&color=D4AF37&center=true&vCenter=true&width=180&height=28&lines=Clients+delivered&duration=1&pause=99999999&repeat=false) | ![Focus Areas](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&color=D4AF37&center=true&vCenter=true&width=140&height=28&lines=Focus+Areas&duration=1&pause=99999999&repeat=false) |
 |---|---|---|
 | **AI / SaaS** *(own products)* | **GL-Solutions.AI** — Lucy · Lucy 2.0 · Text2SQL · GDPR DB Scanner · EnvMaker · OPS (Azure observability) · AZ_ImageComparison (vision) · Linkedin_img2insight (chart extraction) · OZMetaDB · Engineering Framework · AI Eval Framework | Multi-Agent · RAG · MCP · LLM Evaluation · AI Governance · PII / Compliance |
-| **Big Tech / Enterprise Tech** | **LinkedIn** (3 GenAI engagements via 3Cloud) · **Cognizant (3Cloud)** · **TIBCO Spotfire** (AI eval framework) · **Geonosys** (ID1 + Adaptive Analytics) · Elile (LangGraph multi-agent OSINT) · **Intel Corporation** *(15-yr in-house: 80+ analytics solutions, 4,000+ users, COE leadership)* | GenAI · Vision · Text-to-SQL · GDPR · Multi-Agent · Eval · Big Data · ML |
+| **Big Tech / Enterprise Tech** | **LinkedIn** (3 GenAI engagements via 3Cloud) · **Cognizant (3Cloud)** · **TIBCO Spotfire** (AI eval framework) · **Geonosys** (ID1 + Adaptive Analytics) · Elile (LangGraph multi-agent OSINT) · **Intel Corporation** *(16-yr in-house: 80+ analytics solutions, 4,000+ users, COE leadership)* | GenAI · Vision · Text-to-SQL · GDPR · Multi-Agent · Eval · Big Data · ML |
 | **Government & Justice** — *U.S.* | **Superior Court of California** (San Francisco) · **U.S. Department of State** (Speaker Program) | Court modernization · ADA / WCAG 2.2 AA · PDF/UA-1 · BI governance · diplomatic engagement |
 | **Government & Justice** — *Mexico Federal* | **PEMEX** (gov-side, 3 entities) · **PEMEX-GAS** · **PEMEX-PEP** · **SEDESOL** · **LICONSA** · **BANXICO** (Banco de México) · **Consejo de la Judicatura Federal** (CJF) · **Secretaría de Salud** *(Seguro Popular era)* · **Progresa / Oportunidades** *(federal CCT, 13 cubes — world-recognized poverty-reduction program)* · **IAVE** *(federal toll-tag system via CAPUFE)* · **DICONSA** (REFAC) · **I+D Mexico** · **AMECE / FEA / Solcedi** (CFD e-invoicing compliance) · FONACOT | Data Warehousing · Fraud Detection · Federal BI · Social-impact analytics · Compliance |
 | **Government & Justice** — *Mexico State / City* | **GDF** (Gobierno de la Ciudad de México — Dirección de Ingresos) · **Miguel Hidalgo** (Mexico City delegation) · **UNAM** | Municipal DW · Budget analytics · Academic BI |
@@ -135,7 +135,7 @@ Every client below corresponds to a real engagement with archived deliverables (
 - 🆔 **Geonosys — ID1 Identity Resolution** — Enterprise identity-resolution agent; LangGraph multi-agent workflow (query → intent routing → data fusion → resolution → report); multi-LLM (Anthropic + Google + Mistral); FastAPI + Django + Docker
 - 📊 **Geonosys — Adaptive Analytics Platform** — AI-driven self-evolving analytics with zero-code model generation; **21 model types delivered in 30-day sprint (94% completion)**; Neo4j + LangGraph; multi-LLM
 - 🧪 **TIBCO Spotfire — AI Eval Framework** — Contributed to Spotfire Copilot evaluation framework; Azure AI Evaluation SDK, GPT-4o / GPT-4.1-mini / Phi-4, LangSmith, production eval pipelines
-- 🛡️ **3Cloud / Cognizant — AI Privacy & GDPR App** — PII detection + data-privacy project management for Fortune-50 customers
+- 🛡️ **3Cloud / Cognizant — AI Privacy & GDPR App** — PII detection + data-privacy project management for top-company customers
 - 🤖 **GL-Solutions.AI — Lucy** — Agentic AI platform: 130+ MCP tools, Multi-Agent RAG, cognitive memory, Anthropic + OpenAI + Azure
 - 💬 **GL-Solutions.AI — Text2SQL** — Natural-language enterprise database interface
 - ⚙️ **GL-Solutions.AI — Engineering Framework** — Cross-client AI-assisted development standards, git workflow, code review
