@@ -44,7 +44,7 @@
 
 - **Builder:** still hands-on every day in Python, Azure, MCP, and LangGraph. I've shipped 15+ AI and agent systems since 2024.
 - **Fixer:** I modernize legacy estates (SSAS 2000, Magic xpa, Oracle, Access) into governed cloud platforms without losing an audit trail.
-- **Leader:** at Intel I grew an organization from 0 to 200+ engineers across 4 countries, with 98%+ on-time delivery and $35M+ in quantified business value.
+- **Leader:** at Intel I grew an organization from 0 to 200+ engineers across 5 countries, with 98%+ on-time delivery and $35M+ in quantified business value.
 
 Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**. We build AI systems where **explainability, auditability, and privacy** are requirements, not afterthoughts. Our clients include courts, insurers, and top companies.
 
@@ -149,7 +149,7 @@ Every client below corresponds to a real engagement with archived deliverables (
 ### 🏆 Proud Moments
 
 - 🏅 Recognized with **14+ awards** for innovation, revenue, business-unit growth, and leadership — including *"Best IT Site Manager Ever"* (2023) and first Latin American HQ IT Site Leader at Intel
-- 👥 **Built organizations from 0 → 200+ engineers** across the U.S., Costa Rica, the Philippines, and India — 30 agile teams, $25M portfolio, 98%+ on-time delivery
+- 👥 **Built organizations from 0 → 200+ engineers** across the U.S., Costa Rica, Brazil, the Philippines, and India — 30 agile teams, $25M portfolio, 98%+ on-time delivery
 - 💰 **$35M+ quantified business value** at Intel — $15M+ cost avoidance (predictive analytics, fraud detection, automation), $8M/yr operating cost eliminated, forecast accuracy +35%
 - 🎤 **Keynote, Startup Summit Brazil 2025** (10,000+ attendees) via the U.S. Department of State Speaker Program
 - 💡 **Saved PEMEX millions** with a fraud-correlation model that triggered new employee policies
