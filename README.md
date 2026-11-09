@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/linaresrivas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2800&color=0B5FFF&center=true&vCenter=true&width=720&height=42&lines=The+engineer+executives+call+when+it+must+work;AI+Architect+%C2%B7+Agentic+AI+%C2%B7+LLM+Evals+%C2%B7+AI+Governance;AI+governance+in+production%3A+courts%2C+claims%2C+finance;ex-Intel%3A+0%E2%86%92200%2B+engineers+%C2%B7+%2435M%2B+business+value;Eval-first.+Privacy-first.+Boring+on+purpose." alt="AI Architect · Agentic AI · LLM Evals · AI Governance" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2800&color=0B5FFF&center=true&vCenter=true&width=720&height=42&lines=Data+and+AI+systems+built+to+run+in+production;AI+Architect+%C2%B7+Agentic+AI+%C2%B7+LLM+Evals+%C2%B7+AI+Governance;AI+governance+in+production%3A+courts%2C+claims%2C+finance;ex-Intel%3A+0%E2%86%92200%2B+engineers+%C2%B7+%2435M%2B+business+value;Eval-first.+Privacy-first.+Boring+on+purpose." alt="AI Architect · Agentic AI · LLM Evals · AI Governance" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@
 
 ### 🚀 About
 
-**I'm the engineer executives call when it absolutely must work.** I've spent 20+ years, with 276 documented projects for 85+ clients, turning data and AI into production systems that people rely on:
+**I build data and AI systems that have to work in production.** I've spent 20+ years, with 276 documented projects for 85+ clients, turning data and AI into production systems that people rely on:
 
 - **Builder:** still hands-on every day in Python, Azure, MCP, and LangGraph. I've shipped 15+ AI and agent systems since 2024.
 - **Fixer:** I modernize legacy estates (SSAS 2000, Magic xpa, Oracle, Access) into governed cloud platforms without losing an audit trail.
@@ -90,16 +90,16 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**. We build
 
 ### 📊 Project Portfolio
 
-**Notable clients & sponsors:** **U.S. Department of State** · **LinkedIn** · **Intel** · **Cognizant (3Cloud)** · **TIBCO Spotfire** · **Geonosys** · **ING** · **Procter & Gamble** · **BP (British Petroleum)** · **Walmart** · **Sanofi** · **Bristol-Myers Squibb** · **PEMEX** · **Telcel (América Móvil)** · **Telefónica** · **Televisa** · **Volaris** · **Banco Azteca** · **BANXICO** · **Progresa / Oportunidades** · **Superior Court of California**
+**Notable clients, employers & programs:** **U.S. Department of State** · **LinkedIn** · **Intel** · **Cognizant (3Cloud)** · **TIBCO Spotfire** · **Geonosys** · **ING** · **Procter & Gamble** · **BP (British Petroleum)** · **Walmart** · **Sanofi** · **Bristol-Myers Squibb** · **PEMEX** · **Telcel (América Móvil)** · **Telefónica** · **Televisa** · **Volaris** · **Banco Azteca** · **BANXICO** · **Progresa / Oportunidades** · **Superior Court of California**
 
-Every client below corresponds to a real engagement with archived deliverables (most under NDA; bytes preserved on private storage).
+Every client below corresponds to a real engagement with archived deliverables, most under NDA.
 
 | ![Industry](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&color=D4AF37&center=true&vCenter=true&width=130&height=28&lines=Industry&duration=1&pause=99999999&repeat=false) | ![Clients delivered](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&color=D4AF37&center=true&vCenter=true&width=180&height=28&lines=Clients+delivered&duration=1&pause=99999999&repeat=false) | ![Focus Areas](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&color=D4AF37&center=true&vCenter=true&width=140&height=28&lines=Focus+Areas&duration=1&pause=99999999&repeat=false) |
 |---|---|---|
 | **AI / SaaS** *(own products)* | **GL-Solutions.AI** — Lucy · Lucy 2.0 · Text2SQL · GDPR DB Scanner · EnvMaker · OPS (Azure observability) · AZ_ImageComparison (vision) · Linkedin_img2insight (chart extraction) · OZMetaDB · Engineering Framework · AI Eval Framework | Multi-Agent · RAG · MCP · LLM Evaluation · AI Governance · PII / Compliance |
 | **Big Tech / Enterprise Tech** | **LinkedIn** (3 GenAI engagements via 3Cloud) · **Cognizant (3Cloud)** · **TIBCO Spotfire** (AI eval framework) · **Geonosys** (ID1 + Adaptive Analytics) · Elile (LangGraph multi-agent OSINT) · **Intel Corporation** *(16-yr in-house: 80+ analytics solutions, 4,000+ users, COE leadership)* | GenAI · Vision · Text-to-SQL · GDPR · Multi-Agent · Eval · Big Data · ML |
 | **Government & Justice** — *U.S.* | **Superior Court of California** (San Francisco) · **U.S. Department of State** (Speaker Program) | Court modernization · ADA / WCAG 2.2 AA · PDF/UA-1 · BI governance · diplomatic engagement |
-| **Government & Justice** — *Mexico Federal* | **PEMEX** (gov-side, 3 entities) · **PEMEX-GAS** · **PEMEX-PEP** · **SEDESOL** · **LICONSA** · **BANXICO** (Banco de México) · **Consejo de la Judicatura Federal** (CJF) · **Secretaría de Salud** *(Seguro Popular era)* · **Progresa / Oportunidades** *(federal CCT, 13 cubes — world-recognized poverty-reduction program)* · **IAVE** *(federal toll-tag system via CAPUFE)* · **DICONSA** (REFAC) · **I+D Mexico** · **AMECE / FEA / Solcedi** (CFD e-invoicing compliance) · FONACOT | Data Warehousing · Fraud Detection · Federal BI · Social-impact analytics · Compliance |
+| **Government & Justice** — *Mexico Federal* | **PEMEX** (gov-side, 3 entities) · **PEMEX-GAS** · **PEMEX-PEP** · **SEDESOL** · **LICONSA** · **BANXICO** (Banco de México) · **Consejo de la Judicatura Federal** (CJF) · **Secretaría de Salud** *(Seguro Popular era)* · **Progresa / Oportunidades** *(federal CCT, 13 cubes)* · **IAVE** *(federal toll-tag system via CAPUFE)* · **DICONSA** (REFAC) · **I+D Mexico** · **AMECE / FEA / Solcedi** (CFD e-invoicing compliance) · FONACOT | Data Warehousing · Fraud Detection · Federal BI · Social-impact analytics · Compliance |
 | **Government & Justice** — *Mexico State / City* | **GDF** (Gobierno de la Ciudad de México — Dirección de Ingresos) · **Miguel Hidalgo** (Mexico City delegation) · **UNAM** | Municipal DW · Budget analytics · Academic BI |
 | **Oil & Gas** | **BP** (British Petroleum) México · **PEMEX** (Natural Gas Division + 3 divisions) · **PEMEX-GAS** · **PEMEX-PEP** · **Gas Natural Mexico** | Financial DW · Fraud Detection · Operations · BSC + OLAP + DataMining |
 | **Consumer Packaged Goods** | **Procter & Gamble** Mexico (5 engagements / 8 CABs + KBD) · **Black & Decker** · **Kraft Foods México** · **Sigma Alimentos** (ALFA Group) · **Gamesa-Quaker** (PepsiCo Mexico) · **Whirlpool** · **Chocolate La Corona** · **Coffee Factory** | Sales Analytics · Market-Basket Discovery · Pricing · POS · DSD distribution |
@@ -141,7 +141,7 @@ Every client below corresponds to a real engagement with archived deliverables (
 - ⚙️ **GL-Solutions.AI — Engineering Framework** — Cross-client AI-assisted development standards, git workflow, code review
 - 📊 **GL-Solutions.AI — AI Eval Framework** — Azure AI Evaluation SDK (GPT-4o + Phi-4 + LangSmith) for production LLM testing
 - 💰 **ING (insurance)** — Medical-fraud detection that uncovered fraud patterns and legal cases; claims-workflow monitoring cut response time from 27 to 14 days
-- 🔎 **PEMEX** — Purchase-order fraud-correlation model that saved millions and triggered new employee policies
+- 🔎 **PEMEX** — Purchase-order fraud-correlation model (SAP BW) that led to new employee policies
 - ⛽ **PEMEX (Natural Gas Division)** — 20-TB analytics platform for risk, prediction, fraud, and labor performance; 400+ users; multi-domain decision support
 
 ---
@@ -152,13 +152,13 @@ Every client below corresponds to a real engagement with archived deliverables (
 - 👥 **Built organizations from 0 → 200+ engineers** across the U.S., Costa Rica, Brazil, the Philippines, and India — 30 agile teams, $25M portfolio, 98%+ on-time delivery
 - 💰 **$35M+ quantified business value** at Intel — $15M+ cost avoidance (predictive analytics, fraud detection, automation), $8M/yr operating cost eliminated, forecast accuracy +35%
 - 🎤 **Keynote, Startup Summit Brazil 2025** (10,000+ attendees) via the U.S. Department of State Speaker Program
-- 💡 **Saved PEMEX millions** with a fraud-correlation model that triggered new employee policies
+- 💡 **PEMEX fraud correlation:** a purchase-order model whose findings led to new employee policies
 
 ---
 
 ### 🎓 Education & Certifications
 
-- **Bachelor of Science** in Computer Software Engineering
+- **Bachelor, Software Engineering** (SEP, Mexico)
 - **Stanford Continuing Studies** — Business Intelligence, Statistics, Negotiations
 
 **Recent certifications:**
