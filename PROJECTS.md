@@ -1,6 +1,6 @@
 # Project Catalog — Gonzalo L. Linares-Rivas
 
-**276 documented projects** · 264 listed here · 85+ clients across 17 industries.
+**276 documented projects** · 264 listed here · 95+ clients across 20+ industries.
 
 The remainder are internal tooling, pre-engagement proposals, or details under NDA. Client code and deliverables are private; architecture walkthroughs are available on request.
 

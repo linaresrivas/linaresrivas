@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <b>20+ years · 276 projects · 85+ clients · 17 industries · 250+ OLAP cubes &amp; analytics modules · 15+ AI / agent systems · ex-Intel</b>
+  <b>20+ years · 276 projects · 95+ clients · 20+ industries · 250+ OLAP cubes &amp; analytics modules · 15+ AI / agent systems · ex-Intel</b>
   <br/>
   <sub><i><a href="PROJECTS.md">276 documented projects → full project catalog</a></i></sub>
 </p>
@@ -40,7 +40,7 @@
 
 ### 🚀 About
 
-**I build data and AI systems that have to work in production.** I've spent 20+ years, with 276 documented projects for 85+ clients, turning data and AI into production systems that people rely on:
+**I build data and AI systems that have to work in production.** I've spent 20+ years, with 276 documented projects for 95+ clients, turning data and AI into production systems that people rely on:
 
 - **Builder:** still hands-on every day in Python, Azure, MCP, and LangGraph. I've shipped 15+ AI and agent systems since 2024.
 - **Fixer:** I modernize legacy estates (SSAS 2000, Magic xpa, Oracle, Access) into governed cloud platforms without losing an audit trail.
@@ -83,7 +83,7 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**. We build
 - 🗄️ **Data Engineering** — Medallion (Bronze / Silver / Gold), schema contracts, lineage, data quality gates, Oracle + PostgreSQL + SQL Server pipelines
 - 🏛️ **Legacy Modernization** — Mainframe, Magic xpa, packaged-CMS migrations to modern web stacks (FastAPI + Next.js); SSAS 2000 / OLAP to cloud-native analytics
 - 🛡️ **Governance & Compliance** — CJIS, NIST 800-53, IRS 1075, GDPR, CCPA, ADA / WCAG 2.2 AA, Section 508, PDF accessibility (ISO 32000), PII detection
-- 📊 **BI & Analytics** — Power BI + TIBCO Spotfire governance, health scoring, refresh reliability, DAX + SQL optimization; SSAS/OLAP cubes across 17 industries
+- 📊 **BI & Analytics** — Power BI + TIBCO Spotfire governance, health scoring, refresh reliability, DAX + SQL optimization; SSAS/OLAP cubes across 20+ industries
 - ⚙️ **Platform & Dev Tooling** — AI-assisted engineering frameworks, CI/CD automation, repo ops, reusable cross-client standards, self-healing infrastructure automation (n8n, Docker, MCP agents with human-in-the-loop approvals)
 
 ---
@@ -114,7 +114,7 @@ Every client below corresponds to a real engagement with archived deliverables, 
 | **Web & E-commerce** *(early career)* | **Promoclave** · **Teacari** · **Artesanías de México** · **Expertopolis** · **Intelligence** · **IMEF** · **Cenneg** · **Cibeles** | Classic ASP · Flash · MySQL · Access · early web stacks |
 | **Nonprofit** | **AccessAI** (Member, Board of Directors) | Board governance · AI ethics · equitable access |
 
-> **Totals:** 276 projects · 85+ clients · 17 industries · 250+ OLAP cubes & analytics modules · 80+ internal analytics solutions at Intel · 11+ GL-Solutions.AI products · 15+ AI / agent systems & products.
+> **Totals:** 276 projects · 95+ clients · 20+ industries · 250+ OLAP cubes & analytics modules · 80+ internal analytics solutions at Intel · 11+ GL-Solutions.AI products · 15+ AI / agent systems & products.
 >
 > Many client repos contain multi-cube suites (e.g., SAFCO = 13, BP Finance = 15, Progresa / Oportunidades = 13, P&G = 8 CABs, MAYPO = 6, TBD = 6, TELMEX = 5, Sanborns = 5, CMR = 5, Lorant = 4). Full catalog under private archive. **[→ Browse the public project catalog](PROJECTS.md)**
 
