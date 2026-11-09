@@ -65,9 +65,9 @@ The remainder are internal tooling, pre-engagement proposals, or details under N
 | 2025 | TIBCO Spotfire | Copilot LLM evaluation & AI-safety framework |
 | 2024 | LinkedIn | Workplace GenAI Insights V1 |
 | 2024-2025 | LinkedIn | Image-to-Insight (GPT-4 Vision) |
-| 2024-2025 | Fortune-50 / top-10 tech | AI Marketing Analyst (vision) |
-| 2024-2025 | Fortune-50 | AI Text-to-SQL |
-| 2024-2025 | Fortune-50 | AI Privacy / GDPR app |
+| 2024-2025 | Top tech company | AI Marketing Analyst (vision) |
+| 2024-2025 | Top company | AI Text-to-SQL |
+| 2024-2025 | Top company | AI Privacy / GDPR app |
 
 ## Intel Corporation · BI Developer → Director-level leadership · 2007 – 2023 (first year via Cybersoft)
 
