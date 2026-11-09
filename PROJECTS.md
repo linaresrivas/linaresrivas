@@ -158,6 +158,43 @@ The remainder are internal tooling, pre-engagement proposals, or details under N
 | 2008-2023 | Intel | Platform Board and Systems |
 | 2007-2008 | Intel GEO DSS | The Creator self-evolving OLAP platform (AMO) |
 
+### Enterprise Data Platform: analytical models
+
+I co-designed the Enterprise Data Platform that hosted 200 SSAS analytical models, fed by 23 big-data sources and built by 19 delivery teams. I reviewed every model on every release and guided the teams on model design. Every model was version-controlled, change-board (CCB/CAB) approved and released DEV → TEST → BENCH → PROD with automated testing.
+
+| Program | Models |
+|---|---|
+| Channel | 41 |
+| HCA(HumanCapitalAnalytics) | 29 |
+| CRM | 18 |
+| ICS (marketing) | 18 |
+| Finance(FAE) | 16 |
+| BOI(Business of IT) | 10 |
+| PIAH (Product Analytics) | 8 |
+| Inventory | 8 |
+| SMG(Sales&Marketing) | 6 |
+| PSG (Altera) | 5 |
+| IDP | 5 |
+| IDD (Interface Design Description) | 4 |
+| ICAP(Intel Capital) | 3 |
+| SSA-AMAX | 3 |
+| RETAIL | 3 |
+| CCL (Library) | 3 |
+| GMC(GlobalMarketingCampaigns) | 3 |
+| Cross-program | 3 |
+| S2PBI(Procurement System) | 3 |
+| DCG(Data Center Group) | 2 |
+| CRMIPS | 2 |
+| HR | 1 |
+| ELC | 1 |
+| HAT(Human Activity Tracker) | 1 |
+| AMP(Analytics market place) | 1 |
+| Champ DSS | 1 |
+| CNG (Consumption Next Generation) | 1 |
+| PRC-SMS | 1 |
+
+<sub>Model-level names kept in a private catalog; available on request.</sub>
+
 ## Ritter Dragon · Founding Partner & Senior BI Architect · 2000 – 2007
 
 <sub>81 projects</sub>

@@ -62,7 +62,7 @@ Today I lead **[GL-Solutions.AI](https://github.com/GL-Solutions-AI)**. We build
 |---|---|---|
 | 2023 – now | **GL-Solutions.AI** | Founder &amp; Principal AI Architect: agentic AI, data modernization, AI governance |
 | 2024 – 2025 | **3Cloud** *(now Cognizant)* | Senior AI Engineer: GenAI for **LinkedIn**, LLM evaluation for **TIBCO Spotfire**, GDPR/PII AI for top companies |
-| 2007 – 2023 | **Intel** | 9 roles up to director-level: designed the Enterprise Data Platform (200 analytical models, 28 programs, 19 teams), 0→200+ engineers, HQ IT Site Leader, *"Best IT Site Manager Ever"* |
+| 2007 – 2023 | **Intel** | 9 roles up to director-level: co-designed the Enterprise Data Platform (200 analytical models, 28 programs, 19 teams), 0→200+ engineers, HQ IT Site Leader, *"Best IT Site Manager Ever"* |
 | 2000 – 2007 | **Ritter Dragon** | Founding partner: 80+ BI/data-mining engagements for P&amp;G, Walmart, BP, PEMEX, ING, TELMEX, and Mexican federal government |
 | Earlier career | **ADTSI · OZ · APICE · SIPROSS** | IMSS migration to 40 HP9000 servers, SAT Y2K certification, e-commerce platforms (130+ stores), touchscreen kiosks |
 
@@ -128,7 +128,7 @@ Every client below corresponds to a real engagement with archived deliverables (
 - 🧾 **Insurance claims-management client — Evidence-cited claims AI** — Human-in-the-loop health checks; every statement cites verifiable evidence; claim-scoped retrieval, clinical-advice guard, immutable approvals
 - 📈 **GL-Solutions.AI — Agentic SAA** — ~60-agent strategic asset allocation (macro → CMAs → covariance → portfolio → peer review → CIO ensemble) with IPS compliance and full audit trail
 - 🗄️ **GL-Solutions.AI — db-superpowers** — Oracle / SQL Server / Access → Microsoft Fabric migration toolkit; deterministic, golden-tested
-- 🏢 **Intel Corporation** — Designed the Enterprise Data Platform that enabled 200 analytical models: 23 big-data sources, 28 business programs, 19 delivery teams, every model version-controlled, change-board approved and released DEV → TEST → BENCH → PROD. Also enterprise ML and AI image recognition; IT Site Leader Silicon Valley HQ; 14+ awards including *"Best IT Site Manager Ever"*
+- 🏢 **Intel Corporation** — Co-designed the Enterprise Data Platform that enabled 200 analytical models, reviewing every model on every release and guiding teams on design: 23 big-data sources, 28 business programs, 19 delivery teams, every model version-controlled, change-board approved and released DEV → TEST → BENCH → PROD. Also enterprise ML and AI image recognition; IT Site Leader Silicon Valley HQ; 14+ awards including *"Best IT Site Manager Ever"*
 - 🧠 **LinkedIn — Enterprise GenAI Assistant** — GenAI assistant for workplace operations (delivered via 3Cloud / Cognizant)
 - 🧠 **LinkedIn — GenAI Workplace Insights (v2)** — GenAI-powered insights for internal workplace data
 - 🔍 **Elile — Deep-Research Platform** — Multi-agent OSINT (LangGraph Supervisor + Research / Analysis / Verification / Risk agents; Claude + GPT-4o + Gemini)
